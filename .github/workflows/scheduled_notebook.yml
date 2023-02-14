@@ -1,4 +1,6 @@
 name: Daily Scraper
+permissions:
+  contents: write
 on:
   schedule:
     - cron: '0 0 * * *'
