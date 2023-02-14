@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 jobs:
   notebooks:
-    name: Run the notebook
+    name: Notebook
     runs-on: ubuntu-latest
     defaults:
       run:
