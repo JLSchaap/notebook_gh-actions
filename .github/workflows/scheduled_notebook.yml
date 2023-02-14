@@ -5,12 +5,13 @@ on:
   workflow_dispatch:
 jobs:
   notebooks:
-    name: Notebook
+    name: Run the notebook
     runs-on: ubuntu-latest
     defaults:
       run:
         shell: bash -l {0}
-
+    container: node:latest
+    
     steps:
       - name: Checkout
         uses: actions/checkout@v3
