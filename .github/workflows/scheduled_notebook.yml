@@ -10,8 +10,7 @@ jobs:
     defaults:
       run:
         shell: bash -l {0}
-    container: node:latest
-    
+
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -28,7 +27,7 @@ jobs:
           activate-environment: anaconda-client-env
           environment-file: environment.yml
           auto-activate-base: false
-      - run: |
+        run: |
           conda info
           conda list
 
