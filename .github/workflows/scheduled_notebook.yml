@@ -42,7 +42,7 @@ jobs:
         if: always()
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./exports
+          publish_dir: ./notebooktest
           destination_dir: ./results
 
       # - name: Commit and Push Changes
