@@ -39,4 +39,4 @@ jobs:
         if: always()
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./notebooks
+          publish_dir: ./notebooks/exports
