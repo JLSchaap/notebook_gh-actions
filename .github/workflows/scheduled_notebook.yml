@@ -7,7 +7,6 @@ jobs:
   notebooks:
     name: Run the notebook
     runs-on: ubuntu-latest
-
     defaults:
       run:
         shell: bash -l {0}
