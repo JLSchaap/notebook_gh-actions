@@ -20,7 +20,6 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.10.9'
-          # cache: 'pip'
 
       - name: Setup Conda
         uses: conda-incubator/setup-miniconda@v2
@@ -29,7 +28,7 @@ jobs:
           environment-file: environment.yml
           auto-activate-base: false
 
-      - name: Run python notebooks in notebooks directory
+      - name: Run Python Notebooks
         working-directory: ./notebooks
         run: |
           chmod u+r+x ./runallnotebooks.sh
@@ -41,11 +40,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./notebooks
-
-      # - name: Commit and Push Changes
-      #   run: |
-      #     git config --local user.email "actions@github.com"
-      #     git config --local user.name "GitHub Actions"
-      #     git add exports/pdokWebsiteDatasets.csv
-      #     git commit -m "Finished Scheduled Job: Notebook"
-      #     git push origin master
