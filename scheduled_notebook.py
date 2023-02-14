@@ -30,14 +30,6 @@ datasetListUnstructured = soup.find_all("article")
 # In[ ]:
 
 
-print(datasetListUnstructured[0].p.text)
-print(datasetListUnstructured[0].a.text)
-print(datasetListUnstructured[0].a['href'])
-
-
-# In[ ]:
-
-
 # Schrijf de gevonden datasets op een gestructureerde manier weg
 
 # loop over de gevonden data
@@ -60,6 +52,5 @@ datasets = pd.DataFrame({
 # In[ ]:
 
 
-print(datasets)
-datasets.to_csv('pdokWebsiteDatasets.csv', header=True)
+datasets.to_csv('exports/pdokWebsiteDatasets.csv', header=True)
 
