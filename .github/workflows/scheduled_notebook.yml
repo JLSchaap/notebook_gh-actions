@@ -20,15 +20,13 @@ jobs:
         with:
           python-version: '3.10.9'
           # cache: 'pip'
-          activate-conda: false
-
-
+          
       - uses: conda-incubator/setup-miniconda@v2
-      - name: Setup Conda
         with:
           activate-environment: anaconda-client-env
           environment-file: environment.yml
           auto-activate-base: false
+      - name: Setup Conda
         run: |
           conda info
           conda list
