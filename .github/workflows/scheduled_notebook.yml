@@ -28,22 +28,18 @@ jobs:
           environment-file: environment.yml
           auto-activate-base: false
 
-      # - name: Install Dependencies
-      #   run: pip install -r requirements.txt
-
       - name: Run python notebooks in notebooks directory
         working-directory: ./notebooks
         run: |
           chmod u+r+x ./runallnotebooks.sh
           ./runallnotebooks.sh
 
-      # - name: Deploy
-      #   uses: peaceiris/actions-gh-pages@v3
-      #   if: always()
-      #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
-      #     publish_dir: ./notebooktest
-      #     destination_dir: ./results
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: always()
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./notebooks
 
       # - name: Commit and Push Changes
       #   run: |
