@@ -34,7 +34,7 @@ jobs:
       - name: Run python notebooks in notebooks directory
         working-directory: ./notebooks
         run: |
-          chmod u+r+x ./notebooks/runallnotebooks.sh
+          chmod u+r+x ./runallnotebooks.sh
           ./runallnotebooks.sh
 
       - name: Deploy
