@@ -31,18 +31,18 @@ jobs:
       # - name: Install Dependencies
       #   run: pip install -r requirements.txt
 
-      - name: Run Script and Update Plot
+      - name: Run python notebooks in notebooks directory
+        working-directory: ./notebooks
         run: |
-          jupyter nbconvert --to script scheduled_notebook.ipynb
-          python scheduled_notebook.ipynb
+          ./runallnotebooks.sh
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: always()
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./exports 
-          destination_dir: ./results    
+          publish_dir: ./exports
+          destination_dir: ./results
 
       # - name: Commit and Push Changes
       #   run: |
