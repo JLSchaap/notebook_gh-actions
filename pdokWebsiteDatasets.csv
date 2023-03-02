@@ -3,10 +3,10 @@ titel,categorie,link
 Actueel Hoogtebestand Nederland (AHN3),Hoogte,https://www.pdok.nl/introductie/-/article/actueel-hoogtebestand-nederland-ahn3-
 CBS Vierkantstatistieken,Statistieken,https://www.pdok.nl/introductie/-/article/cbs-vierkantstatistieken
 Richtlijn Stedelijk Afvalwater,Riolering,https://www.pdok.nl/introductie/-/article/kaderrichtlijn-stedelijk-afvalwater
+Ruimtelijke plannen,Ruimte,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
 Overheidsdiensten,Overheidsdiensten,https://www.pdok.nl/introductie/-/article/overheidsdiensten
 Potentiekaart reststromen,Energie,https://www.pdok.nl/introductie/-/article/potentiekaart-reststromen
 RD info,Rijksdriehoeksnet,https://www.pdok.nl/introductie/-/article/rdinfo
-Ruimtelijke plannen,Ruimte,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
 Beschermde Gebieden - Cultuurhistorie (INSPIRE geharmoniseerd),Gebieden,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-cultuurhistorie-inspire-geharmoniseerd-
 Begrenzingen van vergunde ontgrondingsgebieden voor zand- en grindwinning,Natuur en milieu,https://www.pdok.nl/introductie/-/article/begrenzingen-van-vergunde-ontgrondingsgebieden-voor-zand-en-grindwinning
 Waterschapsdata,Waterschappen,https://www.pdok.nl/introductie/-/article/waterschapsdata
@@ -20,8 +20,8 @@ Agrarisch Areaal Nederland (AAN),Landbouw & veeteelt,https://www.pdok.nl/introdu
 Basisregistratie Topografie Achtergrondkaarten (BRT-A),Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-
 Regionale wandelnetwerken,Recreatie,https://www.pdok.nl/introductie/-/article/regionale-wandelnetwerken
 Luchtfotolabels,Luchtfoto,https://www.pdok.nl/introductie/-/article/luchtfotolabels
-Potentiekaart omgevingswarmte,Energie,https://www.pdok.nl/introductie/-/article/potentiekaart-omgevingswarmte
 Potentieel koude en warmte uit open en gesloten WKO systemen (GJ/ha.jaar),Energie,https://www.pdok.nl/introductie/-/article/potentieel-koude-en-warmte-uit-open-en-gesloten-wko-systemen-gj-ha-jaar-
+Potentiekaart omgevingswarmte,Energie,https://www.pdok.nl/introductie/-/article/potentiekaart-omgevingswarmte
 Vaarwegmarkeringen Nederland,Zee,https://www.pdok.nl/introductie/-/article/noordzee-vaarwegmarkeringen-
 Windsnelheden 100m hoogte,Energie,https://www.pdok.nl/introductie/-/article/windsnelheden-100m-hoogte
 Gebouwen (INSPIRE geharmoniseerd),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/gebouwen-inspire-geharmoniseerd-
@@ -58,24 +58,24 @@ Natura 2000,Natuur en milieu,https://www.pdok.nl/introductie/-/article/natura-20
 Beschikbare capaciteit elektriciteitsnet,Energie,https://www.pdok.nl/introductie/-/article/beschikbare-capaciteit-elektriciteitsnet-1
 Digitaal Topografisch Bestand (DTB),Topografie,https://www.pdok.nl/introductie/-/article/digitaal-topografisch-bestand-dtb-
 Schelpdierpercelen,Visserij,https://www.pdok.nl/introductie/-/article/schelpdierpercelen
-3D Geluid,Geluid,https://www.pdok.nl/introductie/-/article/3d-geluid-1
 Bestuurlijke Gebieden,Grenzen & percelen,https://www.pdok.nl/introductie/-/article/bestuurlijke-gebieden
+3D Geluid,Geluid,https://www.pdok.nl/introductie/-/article/3d-geluid-1
 Landelijke fietsroutes,Recreatie,https://www.pdok.nl/introductie/-/article/landelijke-fietsroutes-2
 Regionale fietsnetwerken,Recreatie,https://www.pdok.nl/introductie/-/article/regionale-fietsnetwerken
 Luchtfoto / Landelijke Voorziening Beeldmateriaal (Gesloten),Luchtfoto,https://www.pdok.nl/introductie/-/article/luchtfoto-landelijke-voorziening-beeldmateriaal
 CBS Postcode6,Postcodes,https://www.pdok.nl/introductie/-/article/cbspostcode6
 Stedelijk Water (Riolering),Riolering,https://www.pdok.nl/introductie/-/article/stedelijk-water-riolering-
-Adressen (INSPIRE geharmoniseerd),Adressen,https://www.pdok.nl/introductie/-/article/adressen-inspire-geharmoniseerd-
 Bestuurlijke Grenzen,Grenzen & percelen,https://www.pdok.nl/introductie/-/article/bestuurlijke-grenzen
+Adressen (INSPIRE geharmoniseerd),Adressen,https://www.pdok.nl/introductie/-/article/adressen-inspire-geharmoniseerd-
 Nationale Parken,Natuur en milieu,https://www.pdok.nl/introductie/-/article/nationale-parken
 Publiekrechtelijke beperkingen,Publiekrechtelijke beperkingen,https://www.pdok.nl/introductie/-/article/publiekrechtelijke-beperkingen
-Geografische Namen (INSPIRE geharmoniseerd),Topografie,https://www.pdok.nl/introductie/-/article/geografische-namen-inspire-geharmoniseerd-
 Aardkundige waarden,Gebieden,https://www.pdok.nl/introductie/-/article/aardkundige-waarden
-Beschermde gebieden - CDDA (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-cdda-inspire-geharmoniseerd-
+Geografische Namen (INSPIRE geharmoniseerd),Topografie,https://www.pdok.nl/introductie/-/article/geografische-namen-inspire-geharmoniseerd-
 CBS Bestand Bodemgebruik,Bodem,https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik
 Geluidzones rondom vliegvelden,Geluid,https://www.pdok.nl/introductie/-/article/geluidzones-rondom-vliegvelden
-Vervoersnetwerken (Kadaster),Verkeer & vervoer,https://www.pdok.nl/introductie/-/article/vervoersnetwerken
+Beschermde gebieden - CDDA (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-cdda-inspire-geharmoniseerd-
 Provinciale monumenten,Gebouwen (panden),https://www.pdok.nl/introductie/-/article/provinciale-monumenten
+Vervoersnetwerken (Kadaster),Verkeer & vervoer,https://www.pdok.nl/introductie/-/article/vervoersnetwerken
 Wetlands,Zee,https://www.pdok.nl/introductie/-/article/wetlands
 Habitatrichtlijnen,Landschap,https://www.pdok.nl/introductie/-/article/habitatrichtlijnen
 Weggegevens,Wegen,https://www.pdok.nl/introductie/-/article/weggegevens
