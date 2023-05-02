@@ -38,6 +38,7 @@ BRO REGIS II (HGM),Bodem,https://www.pdok.nl/introductie/-/article/bro-regis-ii-
 BRO Grondwaterstandonderzoek (GLD),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwaterstandonderzoek-gld-
 BRO GeoTOP (GTM),Bodem,https://www.pdok.nl/introductie/-/article/bro-geotop-gtm-
 BRO Grondwatermonitoringput (GMW),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatermonitoringput-gmw-
+BRO Bodemkaart (SGM),Bodem,https://www.pdok.nl/introductie/-/article/bro-bodemkaart-sgm-
 Basisregistratie Topografie Achtergrondkaarten (BRT-A),Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-
 Bestuurlijke Gebieden,Grenzen & percelen,https://www.pdok.nl/introductie/-/article/bestuurlijke-gebieden
 Beschermde Gebieden - Natura 2000 (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-natura2000-inspire-geharmoniseerd-
@@ -58,7 +59,6 @@ BRO Geotechnisch sondeeronderzoek (CPT),Bodem,https://www.pdok.nl/introductie/-/
 BRO Grondwatermonitoringnet (GMN),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatermonitoringnet-gmn-
 CBS Wijken en Buurten,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-wijken-en-buurten
 Vogelrichtlijnen,Fauna,https://www.pdok.nl/introductie/-/article/vogelrichtlijnen
-BRO Bodemkaart (SGM),Bodem,https://www.pdok.nl/introductie/-/article/bro-bodemkaart-sgm-
 Terugmeldingen voor Bronhouders (Gesloten),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/terugmeldingen-voor-bronhouders-gesloten-
 Begrenzingen van vergunde ontgrondingsgebieden voor zand- en grindwinning,Natuur en milieu,https://www.pdok.nl/introductie/-/article/begrenzingen-van-vergunde-ontgrondingsgebieden-voor-zand-en-grindwinning
 Hydrografie (INSPIRE geharmoniseerd),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/hydrografie-inspire-geharmoniseerd-
@@ -67,7 +67,6 @@ Luchtfotolabels,Luchtfoto,https://www.pdok.nl/introductie/-/article/luchtfotolab
 NOVEX gebieden,Ruimte,https://www.pdok.nl/introductie/-/article/novex-gebieden
 Population Distribution (INSPIRE geharmoniseerd),Bevolking,https://www.pdok.nl/introductie/-/article/cbs-bevolkingsspreiding-population-distribution-
 CBS Vierkantstatistieken,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-vierkantstatistieken
-RD info,Rijksdriehoeksnet,https://www.pdok.nl/introductie/-/article/rdinfo
 Ruimtelijke plannen,Ruimte,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
 Spoorwegen,Spoorwegen,https://www.pdok.nl/introductie/-/article/spoorwegen
 Basisregistratie Topografie (BRT) TOPNL,Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
@@ -118,3 +117,4 @@ BRO Wandonderzoek - bodemkunde (SFR),Bodem,https://www.pdok.nl/introductie/-/art
 CBS Postcode6,Postcodes,https://www.pdok.nl/introductie/-/article/cbspostcode6
 CBS Postcode4,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-postcode4
 BRO Digitaal Geologisch Model (DGM),Bodem,https://www.pdok.nl/introductie/-/article/bro-digitaal-geologisch-model-dgm-
+RD info,Rijksdriehoeksnet,https://www.pdok.nl/introductie/-/article/rdinfo
