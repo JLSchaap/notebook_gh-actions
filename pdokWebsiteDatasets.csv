@@ -1,6 +1,7 @@
 titel,categorie,link
 Basisregistratie Topografie (BRT) TOPraster,Topografie,https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster
 Hydrografie - Physical Waters (INSPIRE geharmoniseerd),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/hydrografie-inspire-geharmoniseerd-
+BRO GeoTOP (GTM),Bodem,https://www.pdok.nl/introductie/-/article/bro-geotop-gtm-
 3D Basisvoorziening,3D,https://www.pdok.nl/introductie/-/article/3d-basisvoorziening-1
 Beschermde Gebieden - Nationale Parken (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-nationale-parken-inspire-geharmoniseerd-
 CBS Bestand Bodemgebruik,Bodem,https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik
@@ -11,7 +12,6 @@ Invasieve Exoten (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/i
 Basisregistratie Kadaster (BRK),Grenzen & percelen,https://www.pdok.nl/introductie/-/article/basisregistratie-kadaster-brk-
 Regionale fietsnetwerken,Recreatie,https://www.pdok.nl/introductie/-/article/regionale-fietsnetwerken
 Natura 2000,Natuur en milieu,https://www.pdok.nl/introductie/-/article/natura-2000
-Natuurmeting Op Kaart (NOK),Natuur en milieu,https://www.pdok.nl/introductie/-/article/natuurmeting-op-kaart-nok-
 Projecten Deltaplan Agrarisch Waterbeheer,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/projecten-deltaplan-agrarisch-waterbeheer
 Weggegevens,Wegen,https://www.pdok.nl/introductie/-/article/weggegevens
 Liander elektriciteitsnetten,Energie,https://www.pdok.nl/introductie/-/article/liander-elektriciteitsnetten-1
@@ -25,6 +25,8 @@ Overheidsdiensten,Overheidsdiensten,https://www.pdok.nl/introductie/-/article/ov
 BRO Bodemkundig Booronderzoek (BHR-P),Bodem,https://www.pdok.nl/introductie/-/article/bro-bodemkundig-booronderzoek-bhr-p-
 BRO Grondwatersamenstellingsonderzoek (GAR),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatersamenstellingsonderzoek-gar-
 BRO Bodemkaart (SGM),Bodem,https://www.pdok.nl/introductie/-/article/bro-bodemkaart-sgm-
+Gebouwen (INSPIRE geharmoniseerd),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/gebouwen-inspire-geharmoniseerd-
+Nationaal Hydrologisch Instrumentarium (NHI),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/nationaal-hydrologisch-instrumentarium-nhi-
 Administratieve Eenheden (INSPIRE geharmoniseerd),Grenzen & percelen,https://www.pdok.nl/introductie/-/article/administratieve-eenheden-inspire-geharmoniseerd-
 Adressen,Adressen,https://www.pdok.nl/introductie/-/article/adress-1
 Beschermde Gebieden - Wetlands (INSPIRE geharmoniseerd),Zee,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-wetlands-inspire-geharmoniseerd-
@@ -37,11 +39,9 @@ BRO Model Grondwaterspiegeldiepte (WDM),Bodem,https://www.pdok.nl/introductie/-/
 Kaderrichtlijn Mariene Strategie,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/kaderrichtlijn-mariene-strategie
 BRO REGIS II (HGM),Bodem,https://www.pdok.nl/introductie/-/article/bro-regis-ii-hgm-
 BRO Grondwaterstandonderzoek (GLD),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwaterstandonderzoek-gld-
-BRO GeoTOP (GTM),Bodem,https://www.pdok.nl/introductie/-/article/bro-geotop-gtm-
 BRO Grondwatermonitoringput (GMW),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatermonitoringput-gmw-
-Gebouwen (INSPIRE geharmoniseerd),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/gebouwen-inspire-geharmoniseerd-
-Nationaal Hydrologisch Instrumentarium (NHI),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/nationaal-hydrologisch-instrumentarium-nhi-
 Vaarweg Informatie Nederland (VIN),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/vaarweg-informatie-nederland-vin-
+BRO Digitaal Geologisch Model (DGM),Bodem,https://www.pdok.nl/introductie/-/article/bro-digitaal-geologisch-model-dgm-
 Basisregistratie Topografie Achtergrondkaarten (BRT-A),Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-
 Bestuurlijke Gebieden,Grenzen & percelen,https://www.pdok.nl/introductie/-/article/bestuurlijke-gebieden
 Beschermde Gebieden - Natura 2000 (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-natura2000-inspire-geharmoniseerd-
@@ -62,7 +62,9 @@ BRO Geotechnisch sondeeronderzoek (CPT),Bodem,https://www.pdok.nl/introductie/-/
 BRO Grondwatermonitoringnet (GMN),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatermonitoringnet-gmn-
 CBS Wijken en Buurten,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-wijken-en-buurten
 Vogelrichtlijnen,Fauna,https://www.pdok.nl/introductie/-/article/vogelrichtlijnen
+Nationaal Wegen Bestand (NWB),Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-
 Vaarwegmarkeringen Nederland,Zee,https://www.pdok.nl/introductie/-/article/noordzee-vaarwegmarkeringen-
+Natuurmeting Op Kaart (NOK),Natuur en milieu,https://www.pdok.nl/introductie/-/article/natuurmeting-op-kaart-nok-
 Terugmeldingen voor Bronhouders (Gesloten),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/terugmeldingen-voor-bronhouders-gesloten-
 Begrenzingen van vergunde ontgrondingsgebieden voor zand- en grindwinning,Natuur en milieu,https://www.pdok.nl/introductie/-/article/begrenzingen-van-vergunde-ontgrondingsgebieden-voor-zand-en-grindwinning
 Landelijke wandelroutes,Recreatie,https://www.pdok.nl/introductie/-/article/lange-afstandswandelroutes-law-
@@ -83,9 +85,11 @@ Drone no-fly zones,Drones,https://www.pdok.nl/introductie/-/article/drone-no-fly
 Richtlijn Overstromingsrisico,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/richtlijn-overstromingsrisico-eu2018
 Richtlijn Stedelijk Afvalwater,Riolering,https://www.pdok.nl/introductie/-/article/kaderrichtlijn-stedelijk-afvalwater
 BRO Geomorfologische kaart (GMM),Bodem,https://www.pdok.nl/introductie/-/article/bro-geomorfologische-kaart-gmm-
+Potentiekaart Reststromen,Energie,https://www.pdok.nl/introductie/-/article/potentiekaart-reststromen
 Vervoersnetwerken (INSPIRE geharmoniseerd) (Kadaster),Verkeer & vervoer,https://www.pdok.nl/introductie/-/article/vervoersnetwerken
 Agrarisch Areaal Nederland (AAN),Landbouw & veeteelt,https://www.pdok.nl/introductie/-/article/agrarisch-areaal-nederland-aan-
 RD info,Rijksdriehoeksnet,https://www.pdok.nl/introductie/-/article/rdinfo
+Nationale EnergieAtlas informatielagen Kadaster,Energie,https://www.pdok.nl/introductie/-/article/nationale-energieatlas-informatielagen-kadaster
 3D Geluid,Geluid,https://www.pdok.nl/introductie/-/article/3d-geluid-1
 Luchtfoto / Landelijke Voorziening Beeldmateriaal (Gesloten),Luchtfoto,https://www.pdok.nl/introductie/-/article/luchtfoto-landelijke-voorziening-beeldmateriaal
 PDOK Locatieserver,Locatie,https://www.pdok.nl/introductie/-/article/pdok-locatieserver-1
@@ -97,24 +101,20 @@ Beschermde Gebieden - Cultuurhistorie (INSPIRE geharmoniseerd),Gebieden,https://
 Gepland Landgebruik (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/-/article/gepland-landgebruik-inspire-geharmoniseerd-
 Gesloten gebieden voor visserij,Visserij,https://www.pdok.nl/introductie/-/article/gesloten-gebieden-voor-visserij
 Mossel- en oesterhabitats,Visserij,https://www.pdok.nl/introductie/-/article/mossel-en-oesterhabitats
-Nationale EnergieAtlas informatielagen Kadaster,Energie,https://www.pdok.nl/introductie/-/article/nationale-energieatlas-informatielagen-kadaster
 Nationale Parken,Natuur en milieu,https://www.pdok.nl/introductie/-/article/nationale-parken
 Publiekrechtelijke beperkingen,Publiekrechtelijke beperkingen,https://www.pdok.nl/introductie/-/article/publiekrechtelijke-beperkingen
 Scheepvaart Verkeersscheidingsstelsel Noordzee,Zee,https://www.pdok.nl/introductie/-/article/verkeersscheidingsstelsel
 Waterschapsdata,Waterschappen,https://www.pdok.nl/introductie/-/article/waterschapsdata
 Basisregistratie Grootschalige Topografie (BGT),Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-grootschalige-topografie-bgt-
 Potentiekaart Omgevingswarmte,Energie,https://www.pdok.nl/introductie/-/article/potentiekaart-omgevingswarmte
-Potentiekaart Reststromen,Energie,https://www.pdok.nl/introductie/-/article/potentiekaart-reststromen
 Natuurnetwerk Nederland (NNN) - Provincies (INSPIRE geharmoniseerd),Gebieden,https://www.pdok.nl/introductie/-/article/natuurnetwerk-nederland-nnn-
 Provinciaal Landschapsbeleid - Provincies (INSPIRE geharmoniseerd),Gebieden,https://www.pdok.nl/introductie/-/article/provinciaal-landschapsbeleid
 Wet Ammoniak en Veehouderij gebieden - Provincies (WAV) (INSPIRE geharmoniseerd),Gebieden,https://www.pdok.nl/introductie/-/article/wet-ammoniak-en-veehouderij-gebieden-wav-
 Zeegebieden (INSPIRE geharmoniseerd),Zee,https://www.pdok.nl/introductie/-/article/zeegebieden
 Zwemwater (Provinciaal en Rijkswateren) uit Zwemwaterregister (INSPIRE geharmoniseerd),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/zwemwater-provinciaal-en-rijkswateren-
 Basisregistratie Adressen en Gebouwen (BAG),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/basisregistratie-adressen-en-gebouwen-ba-1
-Nationaal Wegen Bestand (NWB),Wegen,https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-
 Kaderrichtlijn Water EU,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/kaderrichtlijn-water
 BRO EnvironmentalMonitoringFacilities (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/-/article/bro-environmentalmonitoringfacilities-inspire-geharmoniseerd-
 BRO Wandonderzoek - bodemkunde (SFR),Bodem,https://www.pdok.nl/introductie/-/article/bro-wandonderzoek-bodemkunde-sfr-
 CBS Postcode6,Postcodes,https://www.pdok.nl/introductie/-/article/cbspostcode6
 CBS Postcode4,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-postcode4
-BRO Digitaal Geologisch Model (DGM),Bodem,https://www.pdok.nl/introductie/-/article/bro-digitaal-geologisch-model-dgm-
