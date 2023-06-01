@@ -21,7 +21,6 @@ Landelijke fietsroutes,Recreatie,https://www.pdok.nl/introductie/-/article/lande
 Overheidsdiensten,Overheidsdiensten,https://www.pdok.nl/introductie/-/article/overheidsdiensten
 BRO Bodemkundig Booronderzoek (BHR-P),Bodem,https://www.pdok.nl/introductie/-/article/bro-bodemkundig-booronderzoek-bhr-p-
 BRO Grondwatersamenstellingsonderzoek (GAR),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatersamenstellingsonderzoek-gar-
-Basisregistratie Topografie (BRT) TOPraster,Topografie,https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster
 Hydrografie - Physical Waters (INSPIRE geharmoniseerd),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/hydrografie-inspire-geharmoniseerd-
 BRO GeoTOP (GTM),Bodem,https://www.pdok.nl/introductie/-/article/bro-geotop-gtm-
 Administratieve Eenheden (INSPIRE geharmoniseerd),Grenzen & percelen,https://www.pdok.nl/introductie/-/article/administratieve-eenheden-inspire-geharmoniseerd-
@@ -63,6 +62,8 @@ Vaarweg Informatie Nederland (VIN),Water en vaarwegen,https://www.pdok.nl/introd
 BRO Digitaal Geologisch Model (DGM),Bodem,https://www.pdok.nl/introductie/-/article/bro-digitaal-geologisch-model-dgm-
 Nationaal Wegen Bestand (NWB),Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-
 Basisregistratie Adressen en Gebouwen (BAG),INSPIRE as-is,https://www.pdok.nl/introductie/-/article/basisregistratie-adressen-en-gebouwen-ba-1
+Basisregistratie Topografie (BRT) TOPNL,Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
+Basisregistratie Topografie (BRT) TOPraster,Topografie,https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster
 Terugmeldingen voor Bronhouders (Gesloten),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/terugmeldingen-voor-bronhouders-gesloten-
 Begrenzingen van vergunde ontgrondingsgebieden voor zand- en grindwinning,Natuur en milieu,https://www.pdok.nl/introductie/-/article/begrenzingen-van-vergunde-ontgrondingsgebieden-voor-zand-en-grindwinning
 Landelijke wandelroutes,Recreatie,https://www.pdok.nl/introductie/-/article/lange-afstandswandelroutes-law-
@@ -70,9 +71,7 @@ Luchtfotolabels,Luchtfoto,https://www.pdok.nl/introductie/-/article/luchtfotolab
 NOVEX gebieden,Ruimte,https://www.pdok.nl/introductie/-/article/novex-gebieden
 Population Distribution (INSPIRE geharmoniseerd),Bevolking,https://www.pdok.nl/introductie/-/article/cbs-bevolkingsspreiding-population-distribution-
 CBS Vierkantstatistieken,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-vierkantstatistieken
-Ruimtelijke plannen,Ruimte,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
 Spoorwegen,Spoorwegen,https://www.pdok.nl/introductie/-/article/spoorwegen
-Basisregistratie Topografie (BRT) TOPNL,Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
 Windsnelheden 100m hoogte,Energie,https://www.pdok.nl/introductie/-/article/windsnelheden-100m-hoogte
 Bodemgebruik - Land Cover (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/-/article/bodemgebruik-inspire-geharmoniseerd-
 Luchtfoto / PDOK (Open),Luchtfoto,https://www.pdok.nl/introductie/-/article/luchtfoto-pdok
@@ -118,3 +117,4 @@ Vervoersnetwerken (INSPIRE geharmoniseerd) (Kadaster),Verkeer & vervoer,https://
 Agrarisch Areaal Nederland (AAN),Landbouw & veeteelt,https://www.pdok.nl/introductie/-/article/agrarisch-areaal-nederland-aan-
 Nationale EnergieAtlas informatielagen Kadaster,Energie,https://www.pdok.nl/introductie/-/article/nationale-energieatlas-informatielagen-kadaster
 Actueel Hoogtebestand Nederland (AHN),Hoogte,https://www.pdok.nl/introductie/-/article/actueel-hoogtebestand-nederland-ahn3-
+Ruimtelijke plannen,Ruimte,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
