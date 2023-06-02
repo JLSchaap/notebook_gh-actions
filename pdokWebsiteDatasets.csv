@@ -64,6 +64,7 @@ Nationaal Wegen Bestand (NWB),Rijkswaterstaat (RWS),https://www.pdok.nl/introduc
 Basisregistratie Adressen en Gebouwen (BAG),INSPIRE as-is,https://www.pdok.nl/introductie/-/article/basisregistratie-adressen-en-gebouwen-ba-1
 Basisregistratie Topografie (BRT) TOPNL,Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
 Basisregistratie Topografie (BRT) TOPraster,Topografie,https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster
+Luchtfoto / PDOK (Open),Publieke Dienstverlening Op de Kaart (PDOK),https://www.pdok.nl/introductie/-/article/luchtfoto-pdok
 Terugmeldingen voor Bronhouders (Gesloten),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/terugmeldingen-voor-bronhouders-gesloten-
 Begrenzingen van vergunde ontgrondingsgebieden voor zand- en grindwinning,Natuur en milieu,https://www.pdok.nl/introductie/-/article/begrenzingen-van-vergunde-ontgrondingsgebieden-voor-zand-en-grindwinning
 Landelijke wandelroutes,Recreatie,https://www.pdok.nl/introductie/-/article/lange-afstandswandelroutes-law-
@@ -74,7 +75,6 @@ CBS Vierkantstatistieken,Centraal Bureau voor de Statistiek (CBS),https://www.pd
 Spoorwegen,Spoorwegen,https://www.pdok.nl/introductie/-/article/spoorwegen
 Windsnelheden 100m hoogte,Energie,https://www.pdok.nl/introductie/-/article/windsnelheden-100m-hoogte
 Bodemgebruik - Land Cover (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/-/article/bodemgebruik-inspire-geharmoniseerd-
-Luchtfoto / PDOK (Open),Luchtfoto,https://www.pdok.nl/introductie/-/article/luchtfoto-pdok
 Beschermde Gebieden - CDDA (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-cdda-inspire-geharmoniseerd-
 Beschikbare capaciteit elektriciteitsnet,Energie,https://www.pdok.nl/introductie/-/article/beschikbare-capaciteit-elektriciteitsnet-1
 BRO Hydrogeology (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/-/article/bro-hydrogeology-inspire-geharmoniseerd-
@@ -99,7 +99,6 @@ Mossel- en oesterhabitats,Visserij,https://www.pdok.nl/introductie/-/article/mos
 Nationale Parken,Natuur en milieu,https://www.pdok.nl/introductie/-/article/nationale-parken
 Publiekrechtelijke beperkingen,Publiekrechtelijke beperkingen,https://www.pdok.nl/introductie/-/article/publiekrechtelijke-beperkingen
 Scheepvaart Verkeersscheidingsstelsel Noordzee,Zee,https://www.pdok.nl/introductie/-/article/verkeersscheidingsstelsel
-Waterschapsdata,Waterschappen,https://www.pdok.nl/introductie/-/article/waterschapsdata
 Basisregistratie Grootschalige Topografie (BGT),Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-grootschalige-topografie-bgt-
 Potentiekaart Omgevingswarmte,Energie,https://www.pdok.nl/introductie/-/article/potentiekaart-omgevingswarmte
 Natuurnetwerk Nederland (NNN) - Provincies (INSPIRE geharmoniseerd),Gebieden,https://www.pdok.nl/introductie/-/article/natuurnetwerk-nederland-nnn-
@@ -116,5 +115,6 @@ RD info,Rijksdriehoeksnet,https://www.pdok.nl/introductie/-/article/rdinfo
 Vervoersnetwerken (INSPIRE geharmoniseerd) (Kadaster),Verkeer & vervoer,https://www.pdok.nl/introductie/-/article/vervoersnetwerken
 Agrarisch Areaal Nederland (AAN),Landbouw & veeteelt,https://www.pdok.nl/introductie/-/article/agrarisch-areaal-nederland-aan-
 Nationale EnergieAtlas informatielagen Kadaster,Energie,https://www.pdok.nl/introductie/-/article/nationale-energieatlas-informatielagen-kadaster
+Waterschapsdata,Waterschappen,https://www.pdok.nl/introductie/-/article/waterschapsdata
 Actueel Hoogtebestand Nederland (AHN),Hoogte,https://www.pdok.nl/introductie/-/article/actueel-hoogtebestand-nederland-ahn3-
 Ruimtelijke plannen,Ruimte,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
