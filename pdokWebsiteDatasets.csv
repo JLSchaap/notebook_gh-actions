@@ -23,6 +23,7 @@ BRO Bodemkundig Booronderzoek (BHR-P),Bodem,https://www.pdok.nl/introductie/-/ar
 BRO Grondwatersamenstellingsonderzoek (GAR),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatersamenstellingsonderzoek-gar-
 Hydrografie - Physical Waters (INSPIRE geharmoniseerd),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/hydrografie-inspire-geharmoniseerd-
 BRO GeoTOP (GTM),Bodem,https://www.pdok.nl/introductie/-/article/bro-geotop-gtm-
+BRO Geomorfologische kaart (GMM),Bodem,https://www.pdok.nl/introductie/-/article/bro-geomorfologische-kaart-gmm-
 Administratieve Eenheden (INSPIRE geharmoniseerd),Grenzen & percelen,https://www.pdok.nl/introductie/-/article/administratieve-eenheden-inspire-geharmoniseerd-
 Adressen,Adressen,https://www.pdok.nl/introductie/-/article/adress-1
 Beschermde Gebieden - Wetlands (INSPIRE geharmoniseerd),Zee,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-wetlands-inspire-geharmoniseerd-
@@ -58,13 +59,12 @@ BRO Geotechnisch sondeeronderzoek (CPT),Bodem,https://www.pdok.nl/introductie/-/
 BRO Grondwatermonitoringnet (GMN),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatermonitoringnet-gmn-
 CBS Wijken en Buurten,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-wijken-en-buurten
 Vogelrichtlijnen,Fauna,https://www.pdok.nl/introductie/-/article/vogelrichtlijnen
-Vaarweg Informatie Nederland (VIN),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/vaarweg-informatie-nederland-vin-
 BRO Digitaal Geologisch Model (DGM),Bodem,https://www.pdok.nl/introductie/-/article/bro-digitaal-geologisch-model-dgm-
 Nationaal Wegen Bestand (NWB),Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-
 Basisregistratie Adressen en Gebouwen (BAG),INSPIRE as-is,https://www.pdok.nl/introductie/-/article/basisregistratie-adressen-en-gebouwen-ba-1
 Basisregistratie Topografie (BRT) TOPNL,Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
-Basisregistratie Topografie (BRT) TOPraster,Topografie,https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster
 Luchtfoto / PDOK (Open),Publieke Dienstverlening Op de Kaart (PDOK),https://www.pdok.nl/introductie/-/article/luchtfoto-pdok
+Basisregistratie Topografie (BRT) TOPraster,Topografie,https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster
 Terugmeldingen voor Bronhouders (Gesloten),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/terugmeldingen-voor-bronhouders-gesloten-
 Begrenzingen van vergunde ontgrondingsgebieden voor zand- en grindwinning,Natuur en milieu,https://www.pdok.nl/introductie/-/article/begrenzingen-van-vergunde-ontgrondingsgebieden-voor-zand-en-grindwinning
 Landelijke wandelroutes,Recreatie,https://www.pdok.nl/introductie/-/article/lange-afstandswandelroutes-law-
@@ -81,7 +81,6 @@ BRO Hydrogeology (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/
 Drone no-fly zones,Drones,https://www.pdok.nl/introductie/-/article/drone-no-fly-zones
 Richtlijn Overstromingsrisico,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/richtlijn-overstromingsrisico-eu2018
 Richtlijn Stedelijk Afvalwater,Riolering,https://www.pdok.nl/introductie/-/article/kaderrichtlijn-stedelijk-afvalwater
-BRO Geomorfologische kaart (GMM),Bodem,https://www.pdok.nl/introductie/-/article/bro-geomorfologische-kaart-gmm-
 Vaarwegmarkeringen Nederland,Zee,https://www.pdok.nl/introductie/-/article/noordzee-vaarwegmarkeringen-
 Natuurmeting Op Kaart (NOK),Natuur en milieu,https://www.pdok.nl/introductie/-/article/natuurmeting-op-kaart-nok-
 Potentiekaart Reststromen,Energie,https://www.pdok.nl/introductie/-/article/potentiekaart-reststromen
@@ -118,3 +117,4 @@ Nationale EnergieAtlas informatielagen Kadaster,Energie,https://www.pdok.nl/intr
 Waterschapsdata,Waterschappen,https://www.pdok.nl/introductie/-/article/waterschapsdata
 Actueel Hoogtebestand Nederland (AHN),Hoogte,https://www.pdok.nl/introductie/-/article/actueel-hoogtebestand-nederland-ahn3-
 Ruimtelijke plannen,Ruimte,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
+Vaarweg Informatie Nederland (VIN),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/vaarweg-informatie-nederland-vin-
