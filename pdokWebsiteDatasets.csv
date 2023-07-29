@@ -1,6 +1,5 @@
 titel,categorie,link
 Beschermde Gebieden - Nationale Parken (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-nationale-parken-inspire-geharmoniseerd-
-CBS Bestand Bodemgebruik,Bodem,https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik
 Geluidzones rondom vliegvelden,Geluid,https://www.pdok.nl/introductie/-/article/geluidzones-rondom-vliegvelden
 Indicatieve aandachtsgebieden funderingsproblematiek,Fundering,https://www.pdok.nl/introductie/-/article/indicatieve-aandachtsgebieden-funderingsproblematiek
 Invasieve Exoten (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/invasieve-exoten
@@ -21,6 +20,7 @@ BRO Model Grondwaterspiegeldiepte (WDM),Bodem,https://www.pdok.nl/introductie/-/
 BRO Booronderzoek: Geotechnische boormonsterbeschrijving en boormonsteranalyse (BHR-GT),Bodem,https://www.pdok.nl/introductie/-/article/bro-booronderzoek-geotechnische-boormonsterbeschrijving-en-boormonsteranalyse-bhr-gt-
 BRO REGIS II (HGM),Bodem,https://www.pdok.nl/introductie/-/article/bro-regis-ii-hgm-
 Richtlijn Overstromingsrisico,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/richtlijn-overstromingsrisico-eu2018
+CBS Bestand Bodemgebruik 2015,Bodem,https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik-2015
 Administratieve Eenheden (INSPIRE geharmoniseerd),Grenzen & percelen,https://www.pdok.nl/introductie/-/article/administratieve-eenheden-inspire-geharmoniseerd-
 Adressen,Adressen,https://www.pdok.nl/introductie/-/article/adress-1
 Beschermde Gebieden - Wetlands (INSPIRE geharmoniseerd),Zee,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-wetlands-inspire-geharmoniseerd-
@@ -38,13 +38,14 @@ Basisregistratie Kadaster (BRK),INSPIRE as-is,https://www.pdok.nl/introductie/-/
 BRO Geomorfologische kaart (GMM),Bodem,https://www.pdok.nl/introductie/-/article/bro-geomorfologische-kaart-gmm-
 BRO Hydrogeology (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/-/article/bro-hydrogeology-inspire-geharmoniseerd-
 BRO Grondwatersamenstellingsonderzoek (GAR),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatersamenstellingsonderzoek-gar-
+Nationaal Wegen Bestand (NWB) - Wegen,Wegen,https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-wegen
 Nationaal Wegen Bestand (NWB) - Vaarwegen,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-vaarwegen
+CBS Gebiedsindelingen,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-gebiedsindelingen
 Basisregistratie Topografie Achtergrondkaarten (BRT-A),Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-
 Bestuurlijke Gebieden,Grenzen & percelen,https://www.pdok.nl/introductie/-/article/bestuurlijke-gebieden
 Beschermde Gebieden - Natura 2000 (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-natura2000-inspire-geharmoniseerd-
 CBS Existing Land Use (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/-/article/cbs-existing-landuse-inspire-geharmoniseerd-
 Fysisch Geografische Regio’s,Landschap,https://www.pdok.nl/introductie/-/article/fysisch-geografische-regio-s
-CBS Gebiedsindelingen,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-gebiedsindelingen
 Geografische Namen (INSPIRE geharmoniseerd),Topografie,https://www.pdok.nl/introductie/-/article/geografische-namen-inspire-geharmoniseerd-
 Regionale wandelnetwerken,Recreatie,https://www.pdok.nl/introductie/-/article/regionale-wandelnetwerken
 Mosselzaad invanginstallaties,Visserij,https://www.pdok.nl/introductie/-/article/mosselzaad-invanginstallaties
@@ -65,6 +66,8 @@ BRO Grondwatermonitoringput (GMW),Bodem,https://www.pdok.nl/introductie/-/articl
 Potentiekaart Restwarmte,Energie,https://www.pdok.nl/introductie/-/article/potentiekaart-restwarmte
 Vaarweg Netwerk Data Service (VNDS),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/vaarweg-netwerk-data-service-vnds
 Vogelrichtlijn verspreidingsgebied van soorten,Fauna,https://www.pdok.nl/introductie/-/article/vogelrichtlijn-verspreidingsgebied-van-soorten
+Statistical Units Vector (INSPIRE geharmoniseerd),Statistieken,https://www.pdok.nl/introductie/-/article/statistical-units-vector-inspire-geharmoniseerd-
+CBS Bestand Bodemgebruik 2010,Bodem,https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik-2010
 Terugmeldingen voor Bronhouders (Gesloten),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/terugmeldingen-voor-bronhouders-gesloten-
 Begrenzingen van vergunde ontgrondingsgebieden voor zand- en grindwinning,Natuur en milieu,https://www.pdok.nl/introductie/-/article/begrenzingen-van-vergunde-ontgrondingsgebieden-voor-zand-en-grindwinning
 Landelijke wandelroutes,Recreatie,https://www.pdok.nl/introductie/-/article/lange-afstandswandelroutes-law-
@@ -85,7 +88,6 @@ BRO Wandonderzoek - bodemkunde (SFR),Bodem,https://www.pdok.nl/introductie/-/art
 BRO Grondwaterproductiedossier (GPD),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwaterproductiedossier-gpd-
 Stedelijk Water (Riolering),Riolering,https://www.pdok.nl/introductie/-/article/stedelijk-water-riolering-
 Vogelrichtlijn verspreiding van soorten,Fauna,https://www.pdok.nl/introductie/-/article/vogelrichtlijn-verspreiding-van-soorten
-Nationaal Wegen Bestand (NWB) - Wegen,Wegen,https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-wegen
 3D Geluid,Geluid,https://www.pdok.nl/introductie/-/article/3d-geluid-1
 Luchtfoto / Landelijke Voorziening Beeldmateriaal (Gesloten),Luchtfoto,https://www.pdok.nl/introductie/-/article/luchtfoto-landelijke-voorziening-beeldmateriaal
 PDOK Locatieserver,Locatie,https://www.pdok.nl/introductie/-/article/pdok-locatieserver-1
@@ -125,3 +127,4 @@ BRO Grondwatermonitoringnet (GMN),Bodem,https://www.pdok.nl/introductie/-/articl
 Spoorwegen,Spoorwegen,https://www.pdok.nl/introductie/-/article/spoorwegen
 Habitatrichtlijn verspreiding van habitattypen,Landschap,https://www.pdok.nl/introductie/-/article/habitatrichtlijn-verspreiding-van-habitattypen
 Habitatrichtlijn verspreiding van soorten,Landschap,https://www.pdok.nl/introductie/-/article/habitatrichtlijn-verspreiding-van-soorten
+CBS Bestand Bodemgebruik 2017,Bodem,https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik-2017
