@@ -23,13 +23,14 @@ Vaarweg Netwerk Data Service (VNDS),Water en vaarwegen,https://www.pdok.nl/intro
 CBS Bestand Bodemgebruik 2010,Bodem,https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik-2010
 Waterschappen Oppervlaktewateren IMWA,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/waterschappen-oppervlaktewateren-imwa
 Mossel- en oesterhabitats,Visserij,https://www.pdok.nl/introductie/-/article/mossel-en-oesterhabitats
+BAG Terugmeldingen,Gebouwen (panden),https://www.pdok.nl/introductie/-/article/bag-terugmeldingen
+BGT Terugmeldingen,Topografie,https://www.pdok.nl/introductie/-/article/bgt-terugmeldingen
 Administratieve Eenheden (INSPIRE geharmoniseerd),Grenzen & percelen,https://www.pdok.nl/introductie/-/article/administratieve-eenheden-inspire-geharmoniseerd-
 Adressen,Adressen,https://www.pdok.nl/introductie/-/article/adress-1
 Beschermde Gebieden - Wetlands (INSPIRE geharmoniseerd),Zee,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-wetlands-inspire-geharmoniseerd-
 Digitaal Topografisch Bestand (DTB),Topografie,https://www.pdok.nl/introductie/-/article/digitaal-topografisch-bestand-dtb-
 Human Health Statistics Netherlands (INSPIRE geharmoniseerd),Statistieken,https://www.pdok.nl/introductie/-/article/cbs-gezondheid-human-health-statistics-netherlands-
 NAP info,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/napinfo
-Terugmeldingen,Gebouwen (panden),https://www.pdok.nl/introductie/-/article/terugmeldingen-1
 BRO Geomorfologische kaart (GMM),Bodem,https://www.pdok.nl/introductie/-/article/bro-geomorfologische-kaart-gmm-
 BRO Grondwatersamenstellingsonderzoek (GAR),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatersamenstellingsonderzoek-gar-
 Nationaal Wegen Bestand (NWB) - Wegen,Wegen,https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-wegen
@@ -49,8 +50,8 @@ CBS Bestand Bodemgebruik 2017,Bodem,https://www.pdok.nl/introductie/-/article/cb
 CBS Vierkantstatistieken 500m,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-vierkantstatistieken-500m
 Waterschappen Waterbeheergebieden IMWA,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/waterschappen-waterbeheergebieden-imwa
 Waterschappen Keringen IMWA,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/waterschappen-keringen-imwa
-Kadastrale Percelen (INSPIRE geharmoniseerd),Grenzen & percelen,https://www.pdok.nl/introductie/-/article/kadastrale-percelen-inspire-geharmoniseerd-
 Schelpdierpercelen (INSPIRE geharmoniseerd),Visserij,https://www.pdok.nl/introductie/-/article/schelpdierenpercelen
+Kadastrale Percelen (INSPIRE geharmoniseerd),Grenzen & percelen,https://www.pdok.nl/introductie/-/article/kadastrale-percelen-inspire-geharmoniseerd-
 Basisregistratie Topografie Achtergrondkaarten (BRT-A),Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-
 Beschermde Gebieden - Natura 2000 (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-natura2000-inspire-geharmoniseerd-
 CBS Existing Land Use (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/-/article/cbs-existing-landuse-inspire-geharmoniseerd-
@@ -63,7 +64,6 @@ Schelpdierpercelen,Visserij,https://www.pdok.nl/introductie/-/article/schelpdier
 Basisregistratie Topografie (BRT) TOPNL,Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
 Basisregistratie Topografie (BRT) TOPraster,Topografie,https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster
 Luchtfoto / PDOK (Open),Publieke Dienstverlening Op de Kaart (PDOK),https://www.pdok.nl/introductie/-/article/luchtfoto-pdok
-Basisregistratie Adressen en Gebouwen (BAG),Basisregistratie Adressen en Gebouwen (BAG),https://www.pdok.nl/introductie/-/article/basisregistratie-adressen-en-gebouwen-ba-1
 3D Basisvoorziening,3D,https://www.pdok.nl/introductie/-/article/3d-basisvoorziening-1
 BRO Bodemkaart (SGM),Bodem,https://www.pdok.nl/introductie/-/article/bro-bodemkaart-sgm-
 BRO GeoTOP (GTM),Bodem,https://www.pdok.nl/introductie/-/article/bro-geotop-gtm-
@@ -78,6 +78,8 @@ Waterschappen Kunstwerken IMWA,Water en vaarwegen,https://www.pdok.nl/introducti
 Waterschappen Hydrografie (INSPIRE geharmoniseerd),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/waterschappen-hydrografie-inspire-geharmoniseerd-
 Waterschappen Nuts-Overheidsdiensten (INSPIRE geharmoniseerd),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/waterschappen-nuts-overheidsdiensten-inspire-geharmoniseerd-
 Bestuurlijke Grenzen,Grenzen & percelen,https://www.pdok.nl/introductie/-/article/bestuurlijke-grenzen
+Basisregistratie Grootschalige Topografie (BGT),Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-grootschalige-topografie-bgt-
+BRT Terugmeldingen,Topografie,https://www.pdok.nl/introductie/-/article/brt-terugmeldingen
 Terugmeldingen voor Bronhouders (Gesloten),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/terugmeldingen-voor-bronhouders-gesloten-
 Begrenzingen van vergunde ontgrondingsgebieden voor zand- en grindwinning,Natuur en milieu,https://www.pdok.nl/introductie/-/article/begrenzingen-van-vergunde-ontgrondingsgebieden-voor-zand-en-grindwinning
 Landelijke wandelroutes,Recreatie,https://www.pdok.nl/introductie/-/article/lange-afstandswandelroutes-law-
@@ -102,7 +104,7 @@ CBS Gebiedsindelingen 1995-2015,Centraal Bureau voor de Statistiek (CBS),https:/
 CBS Gebiedsindelingen,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-gebiedsindelingen
 BRO Bodemkundig Booronderzoek (BHR-P) - Geologie (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/-/article/bro-bodemkundig-booronderzoek-bhr-p-geologie-inspire-geharmoniseerd-
 Bestuurlijke Gebieden,Grenzen & percelen,https://www.pdok.nl/introductie/-/article/bestuurlijke-gebieden
-Basisregistratie Grootschalige Topografie (BGT),Basisregistratie Grootschalige Topografie (BGT),https://www.pdok.nl/introductie/-/article/basisregistratie-grootschalige-topografie-bgt-
+Basisregistratie Adressen en Gebouwen (BAG),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/basisregistratie-adressen-en-gebouwen-ba-1
 3D Geluid,Geluid,https://www.pdok.nl/introductie/-/article/3d-geluid-1
 Luchtfoto / Landelijke Voorziening Beeldmateriaal (Gesloten),Luchtfoto,https://www.pdok.nl/introductie/-/article/luchtfoto-landelijke-voorziening-beeldmateriaal
 PDOK Locatieserver,Locatie,https://www.pdok.nl/introductie/-/article/pdok-locatieserver-1
@@ -137,3 +139,4 @@ Stedelijk Water (Riolering),Riolering,https://www.pdok.nl/introductie/-/article/
 Ruimtelijke plannen,Ruimte,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
 BRO Bodemkundig Booronderzoek (BHR-P) - Bodem (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/-/article/bro-bodemkundig-booronderzoek-bhr-p-bodem-inspire-geharmoniseerd-
 Kadastrale Kaart,Basisregistratie Kadaster (BRK),https://www.pdok.nl/introductie/-/article/kadastrale-kaart
+Terugmeldingen luchtvaartobstakels (AERO),Locatie,https://www.pdok.nl/introductie/-/article/terugmeldingen-luchtvaartobstakels-aero-
