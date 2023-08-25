@@ -23,11 +23,12 @@ Vaarweg Netwerk Data Service (VNDS),Water en vaarwegen,https://www.pdok.nl/intro
 CBS Bestand Bodemgebruik 2010,Bodem,https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik-2010
 Waterschappen Oppervlaktewateren IMWA,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/waterschappen-oppervlaktewateren-imwa
 Mossel- en oesterhabitats,Visserij,https://www.pdok.nl/introductie/-/article/mossel-en-oesterhabitats
-BAG Terugmeldingen,Gebouwen (panden),https://www.pdok.nl/introductie/-/article/bag-terugmeldingen
 BGT Terugmeldingen,Topografie,https://www.pdok.nl/introductie/-/article/bgt-terugmeldingen
+BAG Terugmeldingen,Gebouwen (panden),https://www.pdok.nl/introductie/-/article/bag-terugmeldingen
+Nationaal Beschermde Gebieden (CDDA) (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/nationaal-beschermde-gebieden-cdda-inspire-geharmoniseerd-
+Natura2000 (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/natura2000-inspire-geharmoniseerd-
 Administratieve Eenheden (INSPIRE geharmoniseerd),Grenzen & percelen,https://www.pdok.nl/introductie/-/article/administratieve-eenheden-inspire-geharmoniseerd-
 Adressen,Adressen,https://www.pdok.nl/introductie/-/article/adress-1
-Beschermde Gebieden - Wetlands (INSPIRE geharmoniseerd),Zee,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-wetlands-inspire-geharmoniseerd-
 Digitaal Topografisch Bestand (DTB),Topografie,https://www.pdok.nl/introductie/-/article/digitaal-topografisch-bestand-dtb-
 Human Health Statistics Netherlands (INSPIRE geharmoniseerd),Statistieken,https://www.pdok.nl/introductie/-/article/cbs-gezondheid-human-health-statistics-netherlands-
 NAP info,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/napinfo
@@ -51,8 +52,8 @@ CBS Vierkantstatistieken 500m,Centraal Bureau voor de Statistiek (CBS),https://w
 Waterschappen Waterbeheergebieden IMWA,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/waterschappen-waterbeheergebieden-imwa
 Waterschappen Keringen IMWA,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/waterschappen-keringen-imwa
 Schelpdierpercelen (INSPIRE geharmoniseerd),Visserij,https://www.pdok.nl/introductie/-/article/schelpdierenpercelen
+Wetlands (INSPIRE geharmoniseerd),Zee,https://www.pdok.nl/introductie/-/article/wetlands-inspire-geharmoniseerd-
 Basisregistratie Topografie Achtergrondkaarten (BRT-A),Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-
-Beschermde Gebieden - Natura 2000 (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-natura2000-inspire-geharmoniseerd-
 CBS Existing Land Use (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/-/article/cbs-existing-landuse-inspire-geharmoniseerd-
 Fysisch Geografische Regio’s,Landschap,https://www.pdok.nl/introductie/-/article/fysisch-geografische-regio-s
 Geografische Namen (INSPIRE geharmoniseerd),Topografie,https://www.pdok.nl/introductie/-/article/geografische-namen-inspire-geharmoniseerd-
@@ -76,8 +77,8 @@ Provinciale Monumenten - Provincies (INSPIRE geharmoniseerd),Gebouwen (panden),h
 Waterschappen Kunstwerken IMWA,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/waterschappen-kunstwerken-imwa
 Waterschappen Hydrografie (INSPIRE geharmoniseerd),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/waterschappen-hydrografie-inspire-geharmoniseerd-
 Waterschappen Nuts-Overheidsdiensten (INSPIRE geharmoniseerd),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/waterschappen-nuts-overheidsdiensten-inspire-geharmoniseerd-
-Bestuurlijke Grenzen,Grenzen & percelen,https://www.pdok.nl/introductie/-/article/bestuurlijke-grenzen
 Basisregistratie Grootschalige Topografie (BGT),Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-grootschalige-topografie-bgt-
+Bestuurlijke Grenzen,Grenzen & percelen,https://www.pdok.nl/introductie/-/article/bestuurlijke-grenzen
 BRT Terugmeldingen,Topografie,https://www.pdok.nl/introductie/-/article/brt-terugmeldingen
 Kadastrale Percelen (INSPIRE geharmoniseerd),Grenzen & percelen,https://www.pdok.nl/introductie/-/article/kadastrale-percelen-inspire-geharmoniseerd-
 Terugmeldingen voor Bronhouders (Gesloten),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/terugmeldingen-voor-bronhouders-gesloten-
@@ -88,13 +89,11 @@ NOVEX gebieden,Ruimte,https://www.pdok.nl/introductie/-/article/novex-gebieden
 Population Distribution (INSPIRE geharmoniseerd),Bevolking,https://www.pdok.nl/introductie/-/article/cbs-bevolkingsspreiding-population-distribution-
 Windsnelheden 100m hoogte,Energie,https://www.pdok.nl/introductie/-/article/windsnelheden-100m-hoogte
 Bodemgebruik - Land Cover (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/-/article/bodemgebruik-inspire-geharmoniseerd-
-Beschermde Gebieden - CDDA (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-cdda-inspire-geharmoniseerd-
 Drone no-fly zones,Drones,https://www.pdok.nl/introductie/-/article/drone-no-fly-zones
 Natuurmeting Op Kaart (NOK),Natuur en milieu,https://www.pdok.nl/introductie/-/article/natuurmeting-op-kaart-nok-
 BRO Wandonderzoek - bodemkunde (SFR),Bodem,https://www.pdok.nl/introductie/-/article/bro-wandonderzoek-bodemkunde-sfr-
 BRO Grondwaterproductiedossier (GPD),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwaterproductiedossier-gpd-
 Vogelrichtlijn verspreiding van soorten,Fauna,https://www.pdok.nl/introductie/-/article/vogelrichtlijn-verspreiding-van-soorten
-Beschermde Gebieden - Nationale Parken (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-nationale-parken-inspire-geharmoniseerd-
 Potentiekaart Reststromen,Energie,https://www.pdok.nl/introductie/-/article/potentiekaart-reststromen
 Gebouwen (INSPIRE geharmoniseerd),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/gebouwen-inspire-geharmoniseerd-
 CBS Wijken en Buurten,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-wijken-en-buurten
@@ -105,6 +104,8 @@ CBS Gebiedsindelingen,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.
 BRO Bodemkundig Booronderzoek (BHR-P) - Geologie (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/-/article/bro-bodemkundig-booronderzoek-bhr-p-geologie-inspire-geharmoniseerd-
 Bestuurlijke Gebieden,Grenzen & percelen,https://www.pdok.nl/introductie/-/article/bestuurlijke-gebieden
 Basisregistratie Adressen en Gebouwen (BAG),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/basisregistratie-adressen-en-gebouwen-ba-1
+Nationale Parken (INSPIRE geharmoniseerd),Natuur en milieu,https://www.pdok.nl/introductie/-/article/nationale-parken-inspire-geharmoniseerd-
+BRO Bodemkundig Booronderzoek (BHR-P) - Bodem (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/-/article/bro-bodemkundig-booronderzoek-bhr-p-bodem-inspire-geharmoniseerd-
 3D Geluid,Geluid,https://www.pdok.nl/introductie/-/article/3d-geluid-1
 Luchtfoto / Landelijke Voorziening Beeldmateriaal (Gesloten),Luchtfoto,https://www.pdok.nl/introductie/-/article/luchtfoto-landelijke-voorziening-beeldmateriaal
 PDOK Locatieserver,Locatie,https://www.pdok.nl/introductie/-/article/pdok-locatieserver-1
@@ -137,6 +138,5 @@ CBS Vierkantstatistieken 100m,Centraal Bureau voor de Statistiek (CBS),https://w
 Waterschappen Administratieve Eenheden (INSPIRE geharmoniseerd),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/waterschappen-administratieve-eenheden-inspire-geharmoniseerd-
 Stedelijk Water (Riolering),Riolering,https://www.pdok.nl/introductie/-/article/stedelijk-water-riolering-
 Ruimtelijke plannen,Ruimte,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
-BRO Bodemkundig Booronderzoek (BHR-P) - Bodem (INSPIRE geharmoniseerd),Bodem,https://www.pdok.nl/introductie/-/article/bro-bodemkundig-booronderzoek-bhr-p-bodem-inspire-geharmoniseerd-
 Kadastrale Kaart,Basisregistratie Kadaster (BRK),https://www.pdok.nl/introductie/-/article/kadastrale-kaart
 Terugmeldingen luchtvaartobstakels (AERO),Locatie,https://www.pdok.nl/introductie/-/article/terugmeldingen-luchtvaartobstakels-aero-
