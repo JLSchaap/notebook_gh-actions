@@ -27,6 +27,7 @@ Population Distribution (INSPIRE geharmoniseerd),Centraal Bureau voor de Statist
 Natuurnetwerk Nederland (NNN) - Provincies (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/natuurnetwerk-nederland-nnn-
 Overheidsdiensten,Kamer van Koophandel (KVK),https://www.pdok.nl/introductie/-/article/overheidsdiensten
 Actueel Hoogtebestand Nederland (AHN),Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/actueel-hoogtebestand-nederland-ahn
+Basisregistratie Adressen en Gebouwen (BAG),INSPIRE as-is,https://www.pdok.nl/introductie/-/article/basisregistratie-adressen-en-gebouwen-ba-1
 BRO Grondwatersamenstellingsonderzoek (GAR),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatersamenstellingsonderzoek-gar-
 NAP info,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/napinfo
 BRO Geomorfologische kaart (GMM),Bodem,https://www.pdok.nl/introductie/-/article/bro-geomorfologische-kaart-gmm-
@@ -56,6 +57,7 @@ CBS Gebiedsindelingen,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.
 Gebouwen (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/gebouwen-inspire-geharmoniseerd-
 Zeegebieden (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/zeegebieden
 Invasieve Exoten (INSPIRE geharmoniseerd),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/invasieve-exoten
+Basisregistratie Grootschalige Topografie (BGT),Basisregistratie Grootschalige Topografie (BGT),https://www.pdok.nl/introductie/-/article/basisregistratie-grootschalige-topografie-bgt-
 Terugmeldingen voor Bronhouders (Gesloten),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/terugmeldingen-voor-bronhouders-gesloten-
 Basisregistratie Topografie Achtergrondkaarten (BRT-A),Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-
 Fysisch Geografische Regio’s,Landschap,https://www.pdok.nl/introductie/-/article/fysisch-geografische-regio-s
@@ -75,15 +77,15 @@ Weggegevens,Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/wegg
 Adressen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/adress-1
 3D Basisvoorziening,3D,https://www.pdok.nl/introductie/-/article/3d-basisvoorziening-1
 Wet Ammoniak en Veehouderij gebieden - Provincies (WAV) (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/wet-ammoniak-en-veehouderij-gebieden-wav-
-Statistical Units Vector (INSPIRE geharmoniseerd),Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/statistical-units-vector-inspire-geharmoniseerd-
-Waterschappen Nuts-Overheidsdiensten (INSPIRE geharmoniseerd),Waterschappen,https://www.pdok.nl/introductie/-/article/waterschappen-nuts-overheidsdiensten-inspire-geharmoniseerd-
 BRO Bodemkundig Booronderzoek (BHR-P) - Bodem (INSPIRE geharmoniseerd),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-bodemkundig-booronderzoek-bhr-p-bodem-inspire-geharmoniseerd-
 Human Health Statistics Netherlands (INSPIRE geharmoniseerd),Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-gezondheid-human-health-statistics-netherlands-
+Statistical Units Vector (INSPIRE geharmoniseerd),Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/statistical-units-vector-inspire-geharmoniseerd-
+Waterschappen Nuts-Overheidsdiensten (INSPIRE geharmoniseerd),Waterschappen,https://www.pdok.nl/introductie/-/article/waterschappen-nuts-overheidsdiensten-inspire-geharmoniseerd-
 Hydrografie - Physical Waters (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/hydrografie-inspire-geharmoniseerd-
-Basisregistratie Grootschalige Topografie (BGT),Basisregistratie Grootschalige Topografie (BGT),https://www.pdok.nl/introductie/-/article/basisregistratie-grootschalige-topografie-bgt-
 Bestuurlijke Grenzen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/bestuurlijke-grenzen
 Basisregistratie Topografie (BRT) TOPNL,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
 BRO REGIS II (HGM),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-regis-ii-hgm-
+Terugmeldingen luchtvaartobstakels (AERO),Locatie,https://www.pdok.nl/introductie/-/article/terugmeldingen-luchtvaartobstakels-aero-
 NOVEX gebieden,Ruimte,https://www.pdok.nl/introductie/-/article/novex-gebieden
 Landelijke wandelroutes,Recreatie,https://www.pdok.nl/introductie/-/article/lange-afstandswandelroutes-law-
 Luchtfotolabels,Luchtfoto,https://www.pdok.nl/introductie/-/article/luchtfotolabels
@@ -96,16 +98,16 @@ CBS Wijken en Buurten,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.
 CBS Gebiedsindelingen 1995-2015,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-gebiedsindelingen-1995-2015
 Bestuurlijke Gebieden,Grenzen & percelen,https://www.pdok.nl/introductie/-/article/bestuurlijke-gebieden
 BRO Grondwaterproductiedossier (GPD),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwaterproductiedossier-gpd-
+Adressen (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/adressen-inspire-geharmoniseerd-
 BRO Bodemkundig Booronderzoek (BHR-P) - Geologie (INSPIRE geharmoniseerd),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-bodemkundig-booronderzoek-bhr-p-geologie-inspire-geharmoniseerd-
 Administratieve Eenheden (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/administratieve-eenheden-inspire-geharmoniseerd-
 BRO EnvironmentalMonitoringFacilities (INSPIRE geharmoniseerd),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-environmentalmonitoringfacilities-inspire-geharmoniseerd-
-Adressen (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/adressen-inspire-geharmoniseerd-
-Provinciale Monumenten - Provincies (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/provinciale-monumenten
 Aardkundige waarden,Provincies,https://www.pdok.nl/introductie/-/article/aardkundige-waarden
+Provinciale Monumenten - Provincies (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/provinciale-monumenten
 Vervoersnetwerken (INSPIRE geharmoniseerd) (Kadaster),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/vervoersnetwerken
+Zwemwaterkwaliteit (provinciaal en Rijkswateren) uit Zwemwaterregister (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/zwemwaterkwaliteit-provinciaal-en-rijkswateren-uit-zwemwaterregister
 Natura2000 (INSPIRE geharmoniseerd),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/natura2000-inspire-geharmoniseerd-
 Provinciaal Landschapsbeleid - Provincies (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/provinciaal-landschapsbeleid
-Zwemwaterkwaliteit (provinciaal en Rijkswateren) uit Zwemwaterregister (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/zwemwaterkwaliteit-provinciaal-en-rijkswateren-uit-zwemwaterregister
 Schelpdierpercelen (INSPIRE geharmoniseerd),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/schelpdierenpercelen
 Kadastrale Kaart,Basisregistratie Kadaster (BRK),https://www.pdok.nl/introductie/-/article/kadastrale-kaart
 PDOK Locatieserver,Locatie,https://www.pdok.nl/introductie/-/article/pdok-locatieserver-1
@@ -126,7 +128,6 @@ Richtlijn Stedelijk Afvalwater,Riolering,https://www.pdok.nl/introductie/-/artic
 Vaarwegmarkeringen Nederland,Zee,https://www.pdok.nl/introductie/-/article/noordzee-vaarwegmarkeringen-
 Stedelijk Water (Riolering),Riolering,https://www.pdok.nl/introductie/-/article/stedelijk-water-riolering-
 Ruimtelijke plannen,Ruimte,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
-Terugmeldingen luchtvaartobstakels (AERO),Locatie,https://www.pdok.nl/introductie/-/article/terugmeldingen-luchtvaartobstakels-aero-
 PDOK Luchtfoto Infrarood (Open),Luchtfoto,https://www.pdok.nl/introductie/-/article/pdok-luchtfoto-infrarood-open-
 BRO Grondwatermonitoringnet (GMN),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatermonitoringnet-gmn-
 3D Geluid,Geluid,https://www.pdok.nl/introductie/-/article/3d-geluid-1
@@ -136,7 +137,6 @@ Begrenzingen van vergunde ontgrondingsgebieden voor zand- en grindwinning,Provin
 Geografische Namen (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/geografische-namen-inspire-geharmoniseerd-
 Stiltegebieden - Provincies (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/stiltegebieden
 Zwemwater (Provinciaal en Rijkswateren) uit Zwemwaterregister (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/zwemwater-provinciaal-en-rijkswateren-
-Basisregistratie Adressen en Gebouwen (BAG),INSPIRE as-is,https://www.pdok.nl/introductie/-/article/basisregistratie-adressen-en-gebouwen-ba-1
 Wetlands (INSPIRE geharmoniseerd),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/wetlands-inspire-geharmoniseerd-
 Nationale Parken (INSPIRE geharmoniseerd),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/nationale-parken-inspire-geharmoniseerd-
 BRO Digitaal Geologisch Model (DGM),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-digitaal-geologisch-model-dgm-
