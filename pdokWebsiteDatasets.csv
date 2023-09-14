@@ -26,7 +26,6 @@ BRO Hydrogeology (INSPIRE geharmoniseerd),Ministerie van Binnenlandse Zaken en K
 Population Distribution (INSPIRE geharmoniseerd),Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-bevolkingsspreiding-population-distribution-
 Natuurnetwerk Nederland (NNN) - Provincies (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/natuurnetwerk-nederland-nnn-
 Overheidsdiensten,Kamer van Koophandel (KVK),https://www.pdok.nl/introductie/-/article/overheidsdiensten
-Actueel Hoogtebestand Nederland (AHN),Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/actueel-hoogtebestand-nederland-ahn
 Basisregistratie Adressen en Gebouwen (BAG),INSPIRE as-is,https://www.pdok.nl/introductie/-/article/basisregistratie-adressen-en-gebouwen-ba-1
 BRO Grondwatersamenstellingsonderzoek (GAR),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatersamenstellingsonderzoek-gar-
 NAP info,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/napinfo
@@ -86,6 +85,7 @@ Bestuurlijke Grenzen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/bes
 Basisregistratie Topografie (BRT) TOPNL,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
 BRO REGIS II (HGM),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-regis-ii-hgm-
 Terugmeldingen luchtvaartobstakels (AERO),Locatie,https://www.pdok.nl/introductie/-/article/terugmeldingen-luchtvaartobstakels-aero-
+Actueel Hoogtebestand Nederland (AHN),Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/actueel-hoogtebestand-nederland-ahn
 NOVEX gebieden,Ruimte,https://www.pdok.nl/introductie/-/article/novex-gebieden
 Landelijke wandelroutes,Recreatie,https://www.pdok.nl/introductie/-/article/lange-afstandswandelroutes-law-
 Luchtfotolabels,Luchtfoto,https://www.pdok.nl/introductie/-/article/luchtfotolabels
@@ -98,16 +98,16 @@ CBS Wijken en Buurten,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.
 CBS Gebiedsindelingen 1995-2015,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-gebiedsindelingen-1995-2015
 Bestuurlijke Gebieden,Grenzen & percelen,https://www.pdok.nl/introductie/-/article/bestuurlijke-gebieden
 BRO Grondwaterproductiedossier (GPD),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwaterproductiedossier-gpd-
-Adressen (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/adressen-inspire-geharmoniseerd-
 BRO Bodemkundig Booronderzoek (BHR-P) - Geologie (INSPIRE geharmoniseerd),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-bodemkundig-booronderzoek-bhr-p-geologie-inspire-geharmoniseerd-
 Administratieve Eenheden (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/administratieve-eenheden-inspire-geharmoniseerd-
 BRO EnvironmentalMonitoringFacilities (INSPIRE geharmoniseerd),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-environmentalmonitoringfacilities-inspire-geharmoniseerd-
-Aardkundige waarden,Provincies,https://www.pdok.nl/introductie/-/article/aardkundige-waarden
+Adressen (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/adressen-inspire-geharmoniseerd-
 Provinciale Monumenten - Provincies (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/provinciale-monumenten
+Aardkundige waarden,Provincies,https://www.pdok.nl/introductie/-/article/aardkundige-waarden
 Vervoersnetwerken (INSPIRE geharmoniseerd) (Kadaster),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/vervoersnetwerken
-Zwemwaterkwaliteit (provinciaal en Rijkswateren) uit Zwemwaterregister (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/zwemwaterkwaliteit-provinciaal-en-rijkswateren-uit-zwemwaterregister
 Natura2000 (INSPIRE geharmoniseerd),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/natura2000-inspire-geharmoniseerd-
 Provinciaal Landschapsbeleid - Provincies (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/provinciaal-landschapsbeleid
+Zwemwaterkwaliteit (provinciaal en Rijkswateren) uit Zwemwaterregister (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/zwemwaterkwaliteit-provinciaal-en-rijkswateren-uit-zwemwaterregister
 Schelpdierpercelen (INSPIRE geharmoniseerd),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/schelpdierenpercelen
 Kadastrale Kaart,Basisregistratie Kadaster (BRK),https://www.pdok.nl/introductie/-/article/kadastrale-kaart
 PDOK Locatieserver,Locatie,https://www.pdok.nl/introductie/-/article/pdok-locatieserver-1
@@ -116,8 +116,8 @@ Basisregistratie Gewaspercelen (BRP),Landbouw & veeteelt,https://www.pdok.nl/int
 Gesloten gebieden voor visserij,Visserij,https://www.pdok.nl/introductie/-/article/gesloten-gebieden-voor-visserij
 Publiekrechtelijke beperkingen,Publiekrechtelijke beperkingen,https://www.pdok.nl/introductie/-/article/publiekrechtelijke-beperkingen
 Potentiekaart Omgevingswarmte,Energie,https://www.pdok.nl/introductie/-/article/potentiekaart-omgevingswarmte
-CBS Postcode6,Postcodes,https://www.pdok.nl/introductie/-/article/cbspostcode6
 CBS Postcode4,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-postcode4
+CBS Postcode6,Postcodes,https://www.pdok.nl/introductie/-/article/cbspostcode6
 Nationale EnergieAtlas informatielagen Kadaster,Energie,https://www.pdok.nl/introductie/-/article/nationale-energieatlas-informatielagen-kadaster
 Nationaal Hydrologisch Instrumentarium (NHI),Water en vaarwegen,https://www.pdok.nl/introductie/-/article/nationaal-hydrologisch-instrumentarium-nhi-
 BRO Geotechnisch sondeeronderzoek (CPT),Bodem,https://www.pdok.nl/introductie/-/article/bro-geotechnisch-sondeeronderzoek-cpt-
@@ -129,10 +129,10 @@ Vaarwegmarkeringen Nederland,Zee,https://www.pdok.nl/introductie/-/article/noord
 Stedelijk Water (Riolering),Riolering,https://www.pdok.nl/introductie/-/article/stedelijk-water-riolering-
 Ruimtelijke plannen,Ruimte,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
 PDOK Luchtfoto Infrarood (Open),Luchtfoto,https://www.pdok.nl/introductie/-/article/pdok-luchtfoto-infrarood-open-
-BRO Grondwatermonitoringnet (GMN),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatermonitoringnet-gmn-
-3D Geluid,Geluid,https://www.pdok.nl/introductie/-/article/3d-geluid-1
 BRO Grondwaterstandonderzoek (GLD),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwaterstandonderzoek-gld-
 BRO Grondwatergebruiksysteem (GUF),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatergebruiksysteem-guf-
+BRO Grondwatermonitoringnet (GMN),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatermonitoringnet-gmn-
+3D Geluid,Geluid,https://www.pdok.nl/introductie/-/article/3d-geluid-1
 Begrenzingen van vergunde ontgrondingsgebieden voor zand- en grindwinning,Provincies,https://www.pdok.nl/introductie/-/article/begrenzingen-van-vergunde-ontgrondingsgebieden-voor-zand-en-grindwinning
 Geografische Namen (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/geografische-namen-inspire-geharmoniseerd-
 Stiltegebieden - Provincies (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/stiltegebieden
