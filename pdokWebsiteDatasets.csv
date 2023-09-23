@@ -85,9 +85,9 @@ Natuurmeting Op Kaart (NOK),Natuur en milieu,https://www.pdok.nl/introductie/-/a
 Adressen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/adress-1
 3D Basisvoorziening,3D,https://www.pdok.nl/introductie/-/article/3d-basisvoorziening-1
 Wet Ammoniak en Veehouderij gebieden - Provincies (WAV) (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/wet-ammoniak-en-veehouderij-gebieden-wav-
+Statistical Units Vector (INSPIRE geharmoniseerd),Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/statistical-units-vector-inspire-geharmoniseerd-
 BRO Bodemkundig Booronderzoek (BHR-P) - Bodem (INSPIRE geharmoniseerd),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-bodemkundig-booronderzoek-bhr-p-bodem-inspire-geharmoniseerd-
 Human Health Statistics Netherlands (INSPIRE geharmoniseerd),Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-gezondheid-human-health-statistics-netherlands-
-Statistical Units Vector (INSPIRE geharmoniseerd),Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/statistical-units-vector-inspire-geharmoniseerd-
 Hydrografie - Physical Waters (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/hydrografie-inspire-geharmoniseerd-
 Bestuurlijke Grenzen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/bestuurlijke-grenzen
 Basisregistratie Topografie (BRT) TOPNL,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
@@ -115,17 +115,17 @@ Basisregistratie Gewaspercelen (BRP),Landbouw & veeteelt,https://www.pdok.nl/int
 Gesloten gebieden voor visserij,Visserij,https://www.pdok.nl/introductie/-/article/gesloten-gebieden-voor-visserij
 Publiekrechtelijke beperkingen,Publiekrechtelijke beperkingen,https://www.pdok.nl/introductie/-/article/publiekrechtelijke-beperkingen
 Potentiekaart Omgevingswarmte,Energie,https://www.pdok.nl/introductie/-/article/potentiekaart-omgevingswarmte
-CBS Postcode4,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-postcode4
 CBS Postcode6,Postcodes,https://www.pdok.nl/introductie/-/article/cbspostcode6
+CBS Postcode4,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-postcode4
 Nationale EnergieAtlas informatielagen Kadaster,Energie,https://www.pdok.nl/introductie/-/article/nationale-energieatlas-informatielagen-kadaster
 BRO Geotechnisch sondeeronderzoek (CPT),Bodem,https://www.pdok.nl/introductie/-/article/bro-geotechnisch-sondeeronderzoek-cpt-
 Spoorwegen,Spoorwegen,https://www.pdok.nl/introductie/-/article/spoorwegen
 Stedelijk Water (Riolering),Riolering,https://www.pdok.nl/introductie/-/article/stedelijk-water-riolering-
 PDOK Luchtfoto Infrarood (Open),Luchtfoto,https://www.pdok.nl/introductie/-/article/pdok-luchtfoto-infrarood-open-
-BRO Grondwaterstandonderzoek (GLD),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwaterstandonderzoek-gld-
-BRO Grondwatergebruiksysteem (GUF),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatergebruiksysteem-guf-
 BRO Grondwatermonitoringnet (GMN),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatermonitoringnet-gmn-
 3D Geluid,Geluid,https://www.pdok.nl/introductie/-/article/3d-geluid-1
+BRO Grondwaterstandonderzoek (GLD),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwaterstandonderzoek-gld-
+BRO Grondwatergebruiksysteem (GUF),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatergebruiksysteem-guf-
 Geografische Namen (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/geografische-namen-inspire-geharmoniseerd-
 Stiltegebieden - Provincies (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/stiltegebieden
 Zwemwater (Provinciaal en Rijkswateren) uit Zwemwaterregister (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/zwemwater-provinciaal-en-rijkswateren-
@@ -136,8 +136,8 @@ BRO GeoTOP (GTM),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),
 Kaderrichtlijn Mariene Strategie,Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/kaderrichtlijn-mariene-strategie
 CBS Bestand Bodemgebruik 2017,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik-2017
 Natura 2000,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/natura-2000
-Ruimtelijke plannen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
 Nationaal Wegen Bestand (NWB) - Vaarwegen,Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-vaarwegen
 Scheepvaart Verkeersscheidingsstelsel Noordzee,Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/verkeersscheidingsstelsel
+Ruimtelijke plannen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
 Vogelrichtlijn verspreiding van soorten,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/vogelrichtlijn-verspreiding-van-soorten
 Aardkundige waarden (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/aardkundige-waarden
