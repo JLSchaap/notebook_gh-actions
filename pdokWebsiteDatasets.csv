@@ -17,7 +17,6 @@ Population Distribution (INSPIRE geharmoniseerd),Centraal Bureau voor de Statist
 Natuurnetwerk Nederland (NNN) - Provincies (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/natuurnetwerk-nederland-nnn-
 Overheidsdiensten,Kamer van Koophandel (KVK),https://www.pdok.nl/introductie/-/article/overheidsdiensten
 Habitatrichtlijn verspreiding van habitattypen,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/habitatrichtlijn-verspreiding-van-habitattypen
-Mossel- en oesterhabitats,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/mossel-en-oesterhabitats
 Nationaal Hydrologisch Instrumentarium (NHI),Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/nationaal-hydrologisch-instrumentarium-nhi-
 BRO Model Grondwaterspiegeldiepte (WDM),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-model-grondwaterspiegeldiepte-wdm-
 Ruimtelijke plannen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
@@ -25,9 +24,9 @@ Actueel Hoogtebestand Nederland (AHN),Rijkswaterstaat (RWS),https://www.pdok.nl/
 BRO Grondwatersamenstellingsonderzoek (GAR),Bodem,https://www.pdok.nl/introductie/-/article/bro-grondwatersamenstellingsonderzoek-gar-
 NAP info,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/napinfo
 Liander elektriciteitsnetten,Energie,https://www.pdok.nl/introductie/-/article/liander-elektriciteitsnetten-1
-CBS Bestand Bodemgebruik 2015,Bodem,https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik-2015
 Waterschappen Keringen IMWA,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/waterschappen-keringen-imwa
 Waterschappen Waterbeheergebieden IMWA,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/waterschappen-waterbeheergebieden-imwa
+CBS Bestand Bodemgebruik 2015,Bodem,https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik-2015
 PDOK Luchtfoto RGB (Open),Luchtfoto,https://www.pdok.nl/introductie/-/article/pdok-luchtfoto-rgb-open-
 Waterschappen Administratieve Eenheden (INSPIRE geharmoniseerd),Waterschappen,https://www.pdok.nl/introductie/-/article/waterschappen-administratieve-eenheden-inspire-geharmoniseerd-
 Beschermde Gebieden - Cultuurhistorie (INSPIRE geharmoniseerd),Rijksdienst voor het Cultureel Erfgoed (RCE),https://www.pdok.nl/introductie/-/article/beschermde-gebieden-cultuurhistorie-inspire-geharmoniseerd-
@@ -42,13 +41,14 @@ Zeegebieden (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/
 Invasieve Exoten (INSPIRE geharmoniseerd),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/invasieve-exoten
 Basisregistratie Grootschalige Topografie (BGT),Basisregistratie Grootschalige Topografie (BGT),https://www.pdok.nl/introductie/-/article/basisregistratie-grootschalige-topografie-bgt-
 Terugmeldingen voor Bronhouders (Gesloten),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/terugmeldingen-voor-bronhouders-gesloten-
-Digitaal Topografisch Bestand (DTB),Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/digitaal-topografisch-bestand-dtb-
 CBS Wijken en Buurten,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-wijken-en-buurten
+Digitaal Topografisch Bestand (DTB),Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/digitaal-topografisch-bestand-dtb-
 Habitatrichtlijn verspreiding van soorten,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/habitatrichtlijn-verspreiding-van-soorten
 Potentiekaart Reststromen,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/potentiekaart-reststromen
 Waterschappen Nuts-Overheidsdiensten (INSPIRE geharmoniseerd),Waterschappen,https://www.pdok.nl/introductie/-/article/waterschappen-nuts-overheidsdiensten-inspire-geharmoniseerd-
 Windsnelheden 100m hoogte (INSPIRE geharmoniseerd),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/windsnelheden-100m-hoogte
 Basisregistratie Adressen en Gebouwen (BAG),INSPIRE as-is,https://www.pdok.nl/introductie/-/article/basisregistratie-adressen-en-gebouwen-ba-1
+Mossel- en oesterhabitats,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/mossel-en-oesterhabitats
 NOVEX gebieden,Ruimte,https://www.pdok.nl/introductie/-/article/novex-gebieden
 Landelijke wandelroutes,Recreatie,https://www.pdok.nl/introductie/-/article/lange-afstandswandelroutes-law-
 Luchtfotolabels,Luchtfoto,https://www.pdok.nl/introductie/-/article/luchtfotolabels
@@ -73,8 +73,8 @@ Mosselzaad invanginstallaties,Ministerie van Economische Zaken en Klimaat (EZK),
 Potentiekaart Restwarmte,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/potentiekaart-restwarmte
 Wetlands,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/wetlands
 Vogelrichtlijn verspreidingsgebied van soorten,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/vogelrichtlijn-verspreidingsgebied-van-soorten
-CBS Vierkantstatistieken 500m,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-vierkantstatistieken-500m
 Nationaal Beschermde Gebieden (CDDA),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/nationaal-beschermde-gebieden-cdda
+CBS Vierkantstatistieken 500m,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-vierkantstatistieken-500m
 Basisregistratie Topografie Achtergrondkaarten (BRT-A),Topografie,https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-
 Fysisch Geografische Regio’s,Landschap,https://www.pdok.nl/introductie/-/article/fysisch-geografische-regio-s
 Regionale wandelnetwerken,Recreatie,https://www.pdok.nl/introductie/-/article/regionale-wandelnetwerken
