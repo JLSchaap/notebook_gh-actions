@@ -29,7 +29,6 @@ Landelijke wandelroutes,Recreatie,https://www.pdok.nl/introductie/-/article/lang
 NAP info,Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/napinfo
 BRO - Wandonderzoek (SFR) - Bodem (INSPIRE geharmoniseerd),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-wandonderzoek-sfr-bodem-inspire-geharmoniseerd-
 BRO - Geotechnisch booronderzoek (BHR-GT) - Geologie (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/bro-geotechnisch-booronderzoek-bhr-gt-geologie-inspire-geharmoniseerd-
-Basisregistratie Topografie (BRT) TOPNL,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
 Luchtfoto / Landelijke Voorziening Beeldmateriaal (Gesloten),Luchtfoto,https://www.pdok.nl/introductie/-/article/luchtfoto-landelijke-voorziening-beeldmateriaal
 CBS Bevolkingskernen,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-bevolkingskernen
 Liander elektriciteitsnetten,Alliander,https://www.pdok.nl/introductie/-/article/liander-elektriciteitsnetten-1
@@ -53,6 +52,7 @@ Publiekrechtelijke beperkingen,Publiekrechtelijke beperkingen,https://www.pdok.n
 CBS Postcode4,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-postcode4
 Waterschappen Waterketen GWSW,RioNed,https://www.pdok.nl/introductie/-/article/waterschappen-waterketen-gwsw
 NOVEX woningbouwlocaties,Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/novex-woningbouwlocaties
+Vierkant 1 kilometer bij 1 kilometer Nederland LAEA,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/vierkant-1-kilometer-bij-1-kilometer-nederland-laea
 Waterschappen Keringen IMWA,Water en vaarwegen,https://www.pdok.nl/introductie/-/article/waterschappen-keringen-imwa
 Habitatrichtlijn verspreiding van habitattypen,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/habitatrichtlijn-verspreiding-van-habitattypen
 BRO Geomorfologische kaart (GMM),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-geomorfologische-kaart-gmm-
@@ -84,6 +84,8 @@ PDOK Locatieserver,Publieke Dienstverlening Op de Kaart (PDOK),https://www.pdok.
 CBS Postcode6,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbspostcode6
 BRO - Geotechnisch sondeeronderzoek (CPT) – geologie (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/bro-geotechnisch-sondeeronderzoek-cpt-geologie-inspire-geharmoniseerd-
 Regionale Woondeals,Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/regionale-woondeals
+Basisregistratie Topografie (BRT) TOPNL,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
+Vierkant 500 meter bij 500 meter Nederland,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/vierkant-500-meter-bij-500-meter-nederland-1
 BRO Grondwatermonitoringnet (GMN),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-grondwatermonitoringnet-gmn-
 BRO Booronderzoek: Geotechnische boormonsterbeschrijving en boormonsteranalyse (BHR-GT),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-booronderzoek-geotechnische-boormonsterbeschrijving-en-boormonsteranalyse-bhr-gt-
 BRO Wandonderzoek - bodemkunde (SFR),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-wandonderzoek-bodemkunde-sfr-
@@ -112,8 +114,8 @@ Basisregistratie Adressen en Gebouwen (BAG),INSPIRE as-is,https://www.pdok.nl/in
 Kadastrale kaart,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/kadastrale-kaart
 Aardkundige waarden (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/aardkundige-waarden
 Fysisch Geografische Regio’s,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/fysisch-geografische-regio-s
-Basisregistratie Topografie (BRT) TOPraster,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster
 Basisregistratie Topografie Achtergrondkaarten (BRT-A),Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-
+Basisregistratie Topografie (BRT) TOPraster,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster
 CBS Gebiedsindelingen 1995-2015,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-gebiedsindelingen-1995-2015
 Waterschappen Kunstwerken IMWA,Waterschappen,https://www.pdok.nl/introductie/-/article/waterschappen-kunstwerken-imwa
 BRO Grondwatermonitoringput (GMW),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-grondwatermonitoringput-gmw-
