@@ -57,7 +57,7 @@ CBS Bestand Bodemgebruik 2017,Centraal Bureau voor de Statistiek (CBS),https://w
 BRO - Wandonderzoek (SFR) - Bodem (INSPIRE geharmoniseerd),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-wandonderzoek-sfr-bodem-inspire-geharmoniseerd-
 PDOK Luchtfoto Infrarood (Open),Publieke Dienstverlening Op de Kaart (PDOK),https://www.pdok.nl/introductie/-/article/pdok-luchtfoto-infrarood-open-
 Nationaal Wegen Bestand (NWB) - Wegen,Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-wegen
-Kadastrale kaart,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/kadastrale-kaart
+Regionale wandelnetwerken,Recreatie,https://www.pdok.nl/introductie/-/article/regionale-wandelnetwerken
 Basisregistratie Gewaspercelen (BRP),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/basisregistratie-gewaspercelen-brp-
 Basisregistratie Topografie (BRT) BRT Achtergrondkaart (BRT-A),Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-
 CBS Bevolkingskernen,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-bevolkingskernen
@@ -70,7 +70,6 @@ Richtlijn Stedelijk Afvalwater,Rijkswaterstaat (RWS),https://www.pdok.nl/introdu
 Natura2000 (INSPIRE geharmoniseerd),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/natura2000-inspire-geharmoniseerd-
 Liander elektriciteitsnetten,Alliander,https://www.pdok.nl/introductie/-/article/liander-elektriciteitsnetten-1
 Beschermde Gebieden - Cultuurhistorie (INSPIRE geharmoniseerd),Rijksdienst voor het Cultureel Erfgoed (RCE),https://www.pdok.nl/introductie/-/article/beschermde-gebieden-cultuurhistorie-inspire-geharmoniseerd-
-Regionale wandelnetwerken,Recreatie,https://www.pdok.nl/introductie/-/article/regionale-wandelnetwerken
 3D Basisvoorziening,3D,https://www.pdok.nl/introductie/-/article/3d-basisvoorziening-1
 Publiekrechtelijke beperkingen,Publiekrechtelijke beperkingen,https://www.pdok.nl/introductie/-/article/publiekrechtelijke-beperkingen
 CBS Postcode4,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-postcode4
@@ -86,7 +85,6 @@ BRO - Geotechnisch sondeeronderzoek (CPT) – geologie (INSPIRE geharmoniseerd),
 Regionale Woondeals,Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/regionale-woondeals
 BRO - Geotechnisch booronderzoek (BHR-GT) - Geologie (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/bro-geotechnisch-booronderzoek-bhr-gt-geologie-inspire-geharmoniseerd-
 Vierkant 1 kilometer bij 1 kilometer Nederland LAEA,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/vierkant-1-kilometer-bij-1-kilometer-nederland-laea
-Basisregistratie Adressen en Gebouwen (BAG),INSPIRE as-is,https://www.pdok.nl/introductie/-/article/basisregistratie-adressen-en-gebouwen-ba-1
 Gebouwen (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/gebouwen-inspire-geharmoniseerd-
 Basisregistratie Topografie (BRT) TOPNL,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
 PDOK Locatieserver,Publieke Dienstverlening Op de Kaart (PDOK),https://www.pdok.nl/introductie/-/article/pdok-locatieserver-1
@@ -118,6 +116,7 @@ CBS Bestand Bodemgebruik 2015,Centraal Bureau voor de Statistiek (CBS),https://w
 Vierkant 500 meter bij 500 meter Nederland,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/vierkant-500-meter-bij-500-meter-nederland-1
 CBS Wijken en Buurten,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-wijken-en-buurten
 BRO - Grondwatermonitoringput (GMW) - Geologie (INSPIRE geharmoniseerd),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-grondwatermonitoringput-gmw-geologie-inspire-geharmoniseerd-
+Basisregistratie Adressen en Gebouwen (BAG),INSPIRE as-is,https://www.pdok.nl/introductie/-/article/basisregistratie-adressen-en-gebouwen-ba-1
 Basisregistratie Grootschalige Topografie (BGT),Basisregistratie Grootschalige Topografie (BGT),https://www.pdok.nl/introductie/-/article/basisregistratie-grootschalige-topografie-bgt-
 Mossel- en oesterhabitats,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/mossel-en-oesterhabitats
 Vaarwegmarkeringen Nederland,Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/noordzee-vaarwegmarkeringen-
@@ -149,3 +148,4 @@ Referentiepercelen,Landbouw & veeteelt,https://www.pdok.nl/introductie/-/article
 Waterschappen Waterstaatskundige zoneringen waterstaatswerk IMWA,Waterschappen,https://www.pdok.nl/introductie/-/article/waterschappen-waterstaatskundige-zoneringen-waterstaatswerk-imwa
 BAG Terugmeldingen,Basisregistratie Adressen en Gebouwen (BAG),https://www.pdok.nl/introductie/-/article/bag-terugmeldingen
 Nationaal Beschermde Gebieden (CDDA),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/nationaal-beschermde-gebieden-cdda
+Kadastrale kaart,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/kadastrale-kaart
