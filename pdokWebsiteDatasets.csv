@@ -34,6 +34,7 @@ Schelpdierpercelen (INSPIRE geharmoniseerd),Ministerie van Economische Zaken en 
 Bestuurlijke Gebieden,Basisregistratie Kadaster (BRK),https://www.pdok.nl/introductie/-/article/bestuurlijke-gebieden
 BRO - Geotechnisch sondeeronderzoek (CPT) – geologie (INSPIRE geharmoniseerd),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-geotechnisch-sondeeronderzoek-cpt-geologie-inspire-geharmoniseerd-
 Richtlijn Stedelijk Afvalwater,Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/kaderrichtlijn-stedelijk-afvalwater
+Basisregistratie Topografie (BRT) Terugmeldingen BRT,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/brt-terugmeldingen
 BRO Wandonderzoek - bodemkunde (SFR),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-wandonderzoek-bodemkunde-sfr-
 BRO Booronderzoek: Geotechnische boormonsterbeschrijving en boormonsteranalyse (BHR-GT),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-booronderzoek-geotechnische-boormonsterbeschrijving-en-boormonsteranalyse-bhr-gt-
 BRO Grondwatermonitoringnet (GMN),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-grondwatermonitoringnet-gmn-
@@ -65,6 +66,7 @@ Schelpdierpercelen,Ministerie van Economische Zaken en Klimaat (EZK),https://www
 Vierkant 1 kilometer bij 1 kilometer Nederland LAEA,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/vierkant-1-kilometer-bij-1-kilometer-nederland-laea
 Basisregistratie Topografie (BRT) TOPNL,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
 Ruimtelijke plannen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
+Terugmeldingen luchtvaartobstakels (AERO),Locatie,https://www.pdok.nl/introductie/-/article/terugmeldingen-luchtvaartobstakels-aero-
 CBS Bevolkingskernen,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-bevolkingskernen
 Liander elektriciteitsnetten,Alliander,https://www.pdok.nl/introductie/-/article/liander-elektriciteitsnetten-1
 Beschermde Gebieden - Cultuurhistorie (INSPIRE geharmoniseerd),Rijksdienst voor het Cultureel Erfgoed (RCE),https://www.pdok.nl/introductie/-/article/beschermde-gebieden-cultuurhistorie-inspire-geharmoniseerd-
@@ -72,7 +74,6 @@ CBS Existing Land Use (INSPIRE geharmoniseerd),Centraal Bureau voor de Statistie
 Hydrografie - Physical Waters (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/hydrografie-inspire-geharmoniseerd-
 Natura2000 (INSPIRE geharmoniseerd),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/natura2000-inspire-geharmoniseerd-
 Provinciaal Landschapsbeleid - Provincies (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/provinciaal-landschapsbeleid
-Terugmeldingen voor Bronhouders (Gesloten),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/terugmeldingen-voor-bronhouders-gesloten-
 Nationale Parken,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/nationale-parken
 Natura 2000,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/natura-2000
 Potentiekaart Restwarmte,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/potentiekaart-restwarmte
@@ -82,7 +83,6 @@ Publiekrechtelijke beperkingen,Publiekrechtelijke beperkingen,https://www.pdok.n
 CBS Postcode4,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-postcode4
 3D Basisvoorziening,3D,https://www.pdok.nl/introductie/-/article/3d-basisvoorziening-1
 Basisregistratie Topografie (BRT) BRT Achtergrondkaart (BRT-A),Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-
-Basisregistratie Topografie (BRT) Terugmeldingen BRT,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/brt-terugmeldingen
 BRO Model Grondwaterspiegeldiepte (WDM),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-model-grondwaterspiegeldiepte-wdm-
 Waterschappen Oppervlaktewateren IMWA,Waterschappen,https://www.pdok.nl/introductie/-/article/waterschappen-oppervlaktewateren-imwa
 Waterschappen Waterbeheergebieden IMWA,Waterschappen,https://www.pdok.nl/introductie/-/article/waterschappen-waterbeheergebieden-imwa
@@ -92,13 +92,13 @@ BRO Geomorfologische kaart (GMM),Ministerie van Binnenlandse Zaken en Koninkrijk
 BRO - Wandonderzoek (SFR) - Bodem (INSPIRE geharmoniseerd),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-wandonderzoek-sfr-bodem-inspire-geharmoniseerd-
 Kaderrichtlijn Mariene Strategie,Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/kaderrichtlijn-mariene-strategie
 Richtlijn Overstromingsrisico,Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/richtlijn-overstromingsrisico
+BAG Terugmeldingen,Basisregistratie Adressen en Gebouwen (BAG),https://www.pdok.nl/introductie/-/article/bag-terugmeldingen
 Landelijke fietsroutes,Recreatie,https://www.pdok.nl/introductie/-/article/landelijke-fietsroutes-2
 Nationale EnergieAtlas informatielagen Kadaster,Energie,https://www.pdok.nl/introductie/-/article/nationale-energieatlas-informatielagen-kadaster
 Beschikbare capaciteit elektriciteitsnet,Energie,https://www.pdok.nl/introductie/-/article/beschikbare-capaciteit-elektriciteitsnet-1
 BRO Geotechnisch sondeeronderzoek (CPT),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-geotechnisch-sondeeronderzoek-cpt-
 Spoorwegen,ProRail,https://www.pdok.nl/introductie/-/article/spoorwegen
 CBS Bestand Bodemgebruik 2015,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik-2015
-BGT Terugmeldingen,Basisregistratie Grootschalige Topografie (BGT),https://www.pdok.nl/introductie/-/article/bgt-terugmeldingen
 Natuurmeting Op Kaart (NOK),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/natuurmeting-op-kaart-nok-
 Wet Ammoniak en Veehouderij gebieden - Provincies (WAV) (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/wet-ammoniak-en-veehouderij-gebieden-wav-
 Provinciale Monumenten - Provincies (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/provinciale-monumenten
@@ -121,16 +121,15 @@ BRO - Grondwatermonitoringput (GMW) - Geologie (INSPIRE geharmoniseerd),Minister
 Hoogte Nederland - land - DTM (INSPIRE geharmoniseerd),Rijkswaterstaat (RWS),https://www.pdok.nl/introductie/-/article/hoogte-nederland-land-dtm-inspire-geharmoniseerd-
 BRO - Geotechnisch booronderzoek (BHR-GT) - Geologie (INSPIRE geharmoniseerd),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-geotechnisch-booronderzoek-bhr-gt-geologie-inspire-geharmoniseerd-
 Vierkant 500 meter bij 500 meter Nederland,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/vierkant-500-meter-bij-500-meter-nederland-1
+Terugmeldingen voor Bronhouders (Gesloten),Gebouwen (panden),https://www.pdok.nl/introductie/-/article/terugmeldingen-voor-bronhouders-gesloten-
 BRO Grondwatermonitoringput (GMW),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-grondwatermonitoringput-gmw-
 CBS Gebiedsindelingen 1995-2015,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-gebiedsindelingen-1995-2015
-BAG Terugmeldingen,Basisregistratie Adressen en Gebouwen (BAG),https://www.pdok.nl/introductie/-/article/bag-terugmeldingen
 Human Health Statistics Netherlands (INSPIRE geharmoniseerd),Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-gezondheid-human-health-statistics-netherlands-
 Population Distribution (INSPIRE geharmoniseerd),Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-bevolkingsspreiding-population-distribution-
 Grondwaterbeschermingsgebieden (INSPIRE geharmoniseerd),Provincies,https://www.pdok.nl/introductie/-/article/grondwaterbeschermingsgebieden
 Zeegebieden (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/zeegebieden
 Wetlands (INSPIRE geharmoniseerd),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/wetlands-inspire-geharmoniseerd-
 Invasieve Exoten (INSPIRE geharmoniseerd),Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/invasieve-exoten
-Terugmeldingen luchtvaartobstakels (AERO),Locatie,https://www.pdok.nl/introductie/-/article/terugmeldingen-luchtvaartobstakels-aero-
 BRO Bodemkaart (SGM),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-bodemkaart-sgm-
 Habitatrichtlijn verspreiding van soorten,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/habitatrichtlijn-verspreiding-van-soorten
 RD info,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/rdinfo
@@ -150,3 +149,4 @@ Kadastrale kaart,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/kadastr
 Basisregistratie Adressen en Gebouwen (BAG),INSPIRE as-is,https://www.pdok.nl/introductie/-/article/basisregistratie-adressen-en-gebouwen-ba-1
 Basisregistratie Grootschalige Topografie (BGT),Basisregistratie Grootschalige Topografie (BGT),https://www.pdok.nl/introductie/-/article/basisregistratie-grootschalige-topografie-bgt-
 Windsnelheden 100m hoogte,Ministerie van Economische Zaken en Klimaat (EZK),https://www.pdok.nl/introductie/-/article/windsnelheden-100m-hoogte
+BGT Terugmeldingen,Basisregistratie Grootschalige Topografie (BGT),https://www.pdok.nl/introductie/-/article/bgt-terugmeldingen
