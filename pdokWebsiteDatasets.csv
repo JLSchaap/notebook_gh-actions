@@ -1,8 +1,8 @@
 titel,categorie,link
-CBS Gebiedsindelingen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/cbs-gebiedsindelingen
-Digitaal Topografisch Bestand (DTB),INSPIRE as-is,https://www.pdok.nl/introductie/-/article/digitaal-topografisch-bestand-dtb-
 Administratieve Eenheden (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/administratieve-eenheden-inspire-geharmoniseerd-
 Adressen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/adress-1
+CBS Gebiedsindelingen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/cbs-gebiedsindelingen
+Digitaal Topografisch Bestand (DTB),INSPIRE as-is,https://www.pdok.nl/introductie/-/article/digitaal-topografisch-bestand-dtb-
 Basisregistratie Topografie (BRT) TOPraster,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster
 Basisregistratie Topografie (BRT) TOPNL,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
 Bestuurlijke Grenzen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/bestuurlijke-grenzen
@@ -14,14 +14,14 @@ Aardkundige waarden (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.
 BRO Booronderzoek: Geotechnische boormonsterbeschrijving en boormonsteranalyse (BHR-GT),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-booronderzoek-geotechnische-boormonsterbeschrijving-en-boormonsteranalyse-bhr-gt-
 BRO Wandonderzoek - bodemkunde (SFR),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-wandonderzoek-bodemkunde-sfr-
 BRO GeoTOP (GTM),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-geotop-gtm-
-BRO Bodemkundig Booronderzoek (BHR-P) - Bodem (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/bro-bodemkundig-booronderzoek-bhr-p-bodem-inspire-geharmoniseerd-
 BRO REGIS II (HGM),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-regis-ii-hgm-
+BRO Bodemkundig Booronderzoek (BHR-P) - Bodem (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/bro-bodemkundig-booronderzoek-bhr-p-bodem-inspire-geharmoniseerd-
 BRO Grondwatergebruiksysteem (GUF),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-grondwatergebruiksysteem-guf-
-BRO Grondwaterproductiedossier (GPD),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-grondwaterproductiedossier-gpd-
 Nationaal Wegen Bestand (NWB) - Wegen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-wegen
+BRO Grondwaterproductiedossier (GPD),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-grondwaterproductiedossier-gpd-
 Statistical Units Vector (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/statistical-units-vector-inspire-geharmoniseerd-
-Waterschappen Keringen IMWA,Waterschappen,https://www.pdok.nl/introductie/-/article/waterschappen-keringen-imwa
 CBS Bestand Bodemgebruik 2017,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik-2017
+Waterschappen Keringen IMWA,Waterschappen,https://www.pdok.nl/introductie/-/article/waterschappen-keringen-imwa
 Terugmeldingen luchtvaartobstakels (AERO),Locatie,https://www.pdok.nl/introductie/-/article/terugmeldingen-luchtvaartobstakels-aero-
 NOVEX woningbouwlocaties,Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/novex-woningbouwlocaties
 Vierkant 1 kilometer bij 1 kilometer Nederland LAEA,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/vierkant-1-kilometer-bij-1-kilometer-nederland-laea
@@ -150,12 +150,12 @@ PDOK Luchtfoto RGB (Open),Publieke Dienstverlening Op de Kaart (PDOK),https://ww
 Wetlands (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/wetlands-inspire-geharmoniseerd-
 Invasieve Exoten (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/invasieve-exoten
 Habitatrichtlijn verspreiding van soorten,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/habitatrichtlijn-verspreiding-van-soorten
-Vogelrichtlijn verspreiding van soorten,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/vogelrichtlijn-verspreiding-van-soorten
 Wetlands,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/wetlands
+Vogelrichtlijn verspreiding van soorten,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/vogelrichtlijn-verspreiding-van-soorten
 Mossel- en oesterhabitats,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/mossel-en-oesterhabitats
 Gesloten gebieden voor visserij,Ministerie van Economische Zaken (EZK),https://www.pdok.nl/introductie/-/article/gesloten-gebieden-voor-visserij
-Windsnelheden 100m hoogte,INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/windsnelheden-100m-hoogte
 Natura 2000 (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/natura2000-inspire-geharmoniseerd-
+Windsnelheden 100m hoogte,INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/windsnelheden-100m-hoogte
 Ruimtelijke plannen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/ruimtelijke-plannen
 Nuts- en Overheidsdiensten - Riool - Leidingelementen - RSA (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/nuts-en-overheidsdiensten-riool-leidingelementen-rsa-inspire-geharmoniseerd-
 KRW Grondwaterlichamen (INSPIRE geharmoniseerd),Informatiehuis Water (IHW),https://www.pdok.nl/introductie/-/article/krw-grondwaterlichamen-inspire-geharmoniseerd-
