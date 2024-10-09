@@ -38,11 +38,11 @@ BRO GeoTOP (GTM),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),
 BRO REGIS II (HGM),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-regis-ii-hgm-
 BRO Bodemkundig Booronderzoek (BHR-P) - Bodem (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/bro-bodemkundig-booronderzoek-bhr-p-bodem-inspire-geharmoniseerd-
 BRO Grondwatergebruiksysteem (GUF),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-grondwatergebruiksysteem-guf-
-BRO Grondwaterproductiedossier (GPD),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-grondwaterproductiedossier-gpd-
 Nationaal Wegen Bestand (NWB) - Wegen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-wegen
+BRO Grondwaterproductiedossier (GPD),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-grondwaterproductiedossier-gpd-
 Statistical Units Vector (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/statistical-units-vector-inspire-geharmoniseerd-
-Waterschappen Keringen IMWA,Waterschappen,https://www.pdok.nl/introductie/-/article/waterschappen-keringen-imwa
 CBS Bestand Bodemgebruik 2017,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik-2017
+Waterschappen Keringen IMWA,Waterschappen,https://www.pdok.nl/introductie/-/article/waterschappen-keringen-imwa
 Terugmeldingen luchtvaartobstakels (AERO),Locatie,https://www.pdok.nl/introductie/-/article/terugmeldingen-luchtvaartobstakels-aero-
 NOVEX woningbouwlocaties,Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/novex-woningbouwlocaties
 Vierkant 1 kilometer bij 1 kilometer Nederland LAEA,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/vierkant-1-kilometer-bij-1-kilometer-nederland-laea
@@ -56,7 +56,7 @@ KRW Beschermde Gebieden - Drinkwateronttrekking (INSPIRE geharmoniseerd),Informa
 Richtlijn Stedelijk Afvalwater (RSA),INSPIRE as-is,https://www.pdok.nl/introductie/-/article/kaderrichtlijn-stedelijk-afvalwater
 KRW Stroomgebieddistricten (INSPIRE geharmoniseerd),Informatiehuis Water (IHW),https://www.pdok.nl/introductie/-/article/krw-stroomgebieddistricten-inspire-geharmoniseerd-
 Beschermde Gebieden - Cultuurhistorie (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-cultuurhistorie-inspire-geharmoniseerd-
-Basisregistratie Topografie (BRT) TOPNL,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
+CBS Postcode6,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbspostcode6
 Luchtfotolabels,Publieke Dienstverlening Op de Kaart (PDOK),https://www.pdok.nl/introductie/-/article/luchtfotolabels
 CBS Vierkantstatistieken 100m,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/cbs-vierkantstatistieken-100m
 Drone no-fly zones,Luchtverkeersleiding Nederland (LVNL),https://www.pdok.nl/introductie/-/article/drone-no-fly-zones
@@ -81,7 +81,6 @@ BRO - Geotechnisch sondeeronderzoek (CPT) – geologie (INSPIRE geharmoniseerd),
 Hydrografie: Netwerk (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/hydrografie-netwerk-inspire-geharmoniseerd-
 Basisregistratie Topografie (BRT) Terugmeldingen BRT,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/brt-terugmeldingen
 Waterschappen Waterschapsgrenzen IMSO,Waterschappen,https://www.pdok.nl/introductie/-/article/waterschappen-waterschapsgrenzen-imso
-CBS Postcode4,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-postcode4
 PDOK Luchtfoto Infrarood (Open),Publieke Dienstverlening Op de Kaart (PDOK),https://www.pdok.nl/introductie/-/article/pdok-luchtfoto-infrarood-open-
 Potentiekaart Omgevingswarmte,Ministerie van Economische Zaken (EZK),https://www.pdok.nl/introductie/-/article/potentiekaart-omgevingswarmte
 Potentiekaart Reststromen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/potentiekaart-reststromen
@@ -119,7 +118,6 @@ BRO Bodemkundig Booronderzoek (BHR-P),INSPIRE as-is,https://www.pdok.nl/introduc
 CBS Bestand Bodemgebruik 2015,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik-2015
 BRO - Geotechnisch booronderzoek (BHR-GT) - Geologie (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/bro-geotechnisch-booronderzoek-bhr-gt-geologie-inspire-geharmoniseerd-
 Landelijke fietsroutes,Recreatie,https://www.pdok.nl/introductie/-/article/landelijke-fietsroutes-2
-CBS Postcode6,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbspostcode6
 Luchtfoto / Landelijke Voorziening Beeldmateriaal (Gesloten),Luchtfoto,https://www.pdok.nl/introductie/-/article/luchtfoto-landelijke-voorziening-beeldmateriaal
 Landelijke wandelroutes,Recreatie,https://www.pdok.nl/introductie/-/article/lange-afstandswandelroutes-law-
 Natuurmeting Op Kaart (NOK),Ministerie van Economische Zaken (EZK),https://www.pdok.nl/introductie/-/article/natuurmeting-op-kaart-nok-
@@ -160,3 +158,5 @@ Nuts- en Overheidsdiensten - Riool - Leidingelementen - RSA (INSPIRE geharmonise
 KRW Grondwaterlichamen (INSPIRE geharmoniseerd),Informatiehuis Water (IHW),https://www.pdok.nl/introductie/-/article/krw-grondwaterlichamen-inspire-geharmoniseerd-
 KRW Beschermde Gebieden - Schelpdierwater (INSPIRE geharmoniseerd),Informatiehuis Water (IHW),https://www.pdok.nl/introductie/-/article/krw-beschermde-gebieden-schelpdierwater-inspire-geharmoniseerd-
 BRO - Grondwatermonitoring (GM) in samenhang - karakteristieken,Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-grondwatermonitoring-gm-in-samenhang-karakteristieken
+Basisregistratie Topografie (BRT) TOPNL,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl
+CBS Postcode4,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-postcode4
