@@ -1,8 +1,8 @@
 titel,categorie,link
-Administratieve Eenheden (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/administratieve-eenheden-inspire-geharmoniseerd-
-Adressen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/adress-1
 CBS Gebiedsindelingen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/cbs-gebiedsindelingen
 Digitaal Topografisch Bestand (DTB),INSPIRE as-is,https://www.pdok.nl/introductie/-/article/digitaal-topografisch-bestand-dtb-
+Administratieve Eenheden (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/administratieve-eenheden-inspire-geharmoniseerd-
+Adressen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/adress-1
 Basisregistratie Topografie (BRT) TOPraster,Basisregistratie Topografie (BRT),https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster
 Bestuurlijke Grenzen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/bestuurlijke-grenzen
 Stedelijk Water (Riolering),RioNed,https://www.pdok.nl/introductie/-/article/stedelijk-water-riolering-
@@ -13,8 +13,8 @@ Aardkundige waarden (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.
 BRO Booronderzoek: Geotechnische boormonsterbeschrijving en boormonsteranalyse (BHR-GT),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-booronderzoek-geotechnische-boormonsterbeschrijving-en-boormonsteranalyse-bhr-gt-
 BRO Wandonderzoek - bodemkunde (SFR),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-wandonderzoek-bodemkunde-sfr-
 BRO GeoTOP (GTM),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-geotop-gtm-
-BRO REGIS II (HGM),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-regis-ii-hgm-
 BRO Bodemkundig Booronderzoek (BHR-P) - Bodem (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/bro-bodemkundig-booronderzoek-bhr-p-bodem-inspire-geharmoniseerd-
+BRO REGIS II (HGM),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-regis-ii-hgm-
 BRO Grondwatergebruiksysteem (GUF),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-grondwatergebruiksysteem-guf-
 BRO Grondwaterproductiedossier (GPD),Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/bro-grondwaterproductiedossier-gpd-
 Nationaal Wegen Bestand (NWB) - Wegen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-wegen
@@ -23,3 +23,15 @@ Waterschappen Keringen IMWA,Waterschappen,https://www.pdok.nl/introductie/-/arti
 CBS Bestand Bodemgebruik 2017,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/cbs-bestand-bodemgebruik-2017
 Terugmeldingen luchtvaartobstakels (AERO),Locatie,https://www.pdok.nl/introductie/-/article/terugmeldingen-luchtvaartobstakels-aero-
 NOVEX woningbouwlocaties,Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),https://www.pdok.nl/introductie/-/article/novex-woningbouwlocaties
+Vierkant 1 kilometer bij 1 kilometer Nederland LAEA,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/vierkant-1-kilometer-bij-1-kilometer-nederland-laea
+CBS Bevolkingskernen 2011,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbs-bevolkingskernen
+Regionale fietsnetwerken,Recreatie,https://www.pdok.nl/introductie/-/article/regionale-fietsnetwerken
+Mosselzaad invanginstallaties,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/mosselzaad-invanginstallaties
+Fysisch Geografische Regio’s,Ministerie van Economische Zaken (EZK),https://www.pdok.nl/introductie/-/article/fysisch-geografische-regio-s
+Schelpdierpercelen,INSPIRE as-is,https://www.pdok.nl/introductie/-/article/schelpdierpercelen
+KRW Monitoringlocaties (INSPIRE geharmoniseerd),Informatiehuis Water (IHW),https://www.pdok.nl/introductie/-/article/krw-monitoringlocaties-inspire-geharmoniseerd-
+KRW Beschermde Gebieden - Drinkwateronttrekking (INSPIRE geharmoniseerd),Informatiehuis Water (IHW),https://www.pdok.nl/introductie/-/article/krw-beschermde-gebieden-drinkwateronttrekking-inspire-geharmoniseerd-
+Richtlijn Stedelijk Afvalwater (RSA),INSPIRE as-is,https://www.pdok.nl/introductie/-/article/kaderrichtlijn-stedelijk-afvalwater
+KRW Stroomgebieddistricten (INSPIRE geharmoniseerd),Informatiehuis Water (IHW),https://www.pdok.nl/introductie/-/article/krw-stroomgebieddistricten-inspire-geharmoniseerd-
+Beschermde Gebieden - Cultuurhistorie (INSPIRE geharmoniseerd),INSPIRE geharmoniseerd,https://www.pdok.nl/introductie/-/article/beschermde-gebieden-cultuurhistorie-inspire-geharmoniseerd-
+CBS Postcode6,Centraal Bureau voor de Statistiek (CBS),https://www.pdok.nl/introductie/-/article/cbspostcode6
