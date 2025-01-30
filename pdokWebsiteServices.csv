@@ -43,7 +43,6 @@ wms,BRO - Geotechnisch sondeeronderzoek (CPT) – Geologie (INSPIRE geharmonisee
 ,,,,,
 ,,,,,
 wms,BRO - Grondwatermonitoring (GM) in samenhang - karakteristieken,https://service.pdok.nl/bzk/bro-gminsamenhang-karakteristieken/wms/v1_0?request=getCapabilities&service=wms,https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/20212ffa-b2c5-412c-a9f4-805454088182,https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/824c221c-fb94-11ed-be56-0242ac120002,
-wms,BRO - Grondwatermonitoringput (GMW) - Geologie (INSPIRE geharmoniseerd),https://service.pdok.nl/bzk/geologie/bro-grondwatermonitoringput/wms/v1_0?request=getcapabilities&service=WMS,https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/8d3a1f10-7719-4944-ab87-9057198bcdd7,https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/851fc968-137e-11eb-adc1-0242ac120002,
 ,,,,,
 ,,,,,
 wms,BRO Model Grondwaterspiegeldiepte (WDM),https://service.pdok.nl/bzk/bro-grondwaterspiegeldiepte/wms/v2_0?request=GetCapabilities&service=WMS,https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/757a7c50-540d-4105-9135-73f09f700743,https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/b756dabe-a331-42cd-b45e-f61828ee4534,
